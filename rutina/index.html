@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Mi Rutina de Gimnasio - Alexandra</title>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:wght@600;800&family=Nunito:wght@500;700;800&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#fff6f4;--card:#ffffff;--ink:#3a2431;--mut:#7d6571;--acc:#c2456b;--acc2:#fbd9e2;--line:#f0d7de;--ok:#2f9e6e;
+box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#231820;--card:#322230;--ink:#fbeef2;--mut:#c9adb8;--acc:#ff8fb0;--acc2:#4a2a3b;--line:#4a3443;--ok:#6fdaa5}}
+:root[data-theme="dark"]{--bg:#231820;--card:#322230;--ink:#fbeef2;--mut:#c9adb8;--acc:#ff8fb0;--acc2:#4a2a3b;--line:#4a3443;--ok:#6fdaa5}
+html{scroll-padding-top:env(safe-area-inset-top,0px)}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:'Nunito',system-ui,sans-serif;font-size:17px;line-height:1.45}
+main{max-width:640px;margin:0 auto;padding:20px 16px 48px}
+h1{font-family:'Fraunces',Georgia,serif;font-weight:800;font-size:30px;margin:8px 0 4px;line-height:1.1}
+.sub{color:var(--mut);margin:0 0 16px}
+.tabs{display:grid;grid-template-columns:repeat(4,1fr);gap:8px;position:sticky;top:env(safe-area-inset-top,0px);background:var(--bg);padding:8px 0;z-index:5}
+.tab{border:2px solid var(--line);background:var(--card);color:var(--ink);border-radius:14px;padding:10px 4px;font:800 15px 'Nunito',sans-serif;cursor:pointer;line-height:1.2}
+.tab small{display:block;font-weight:500;font-size:11px;color:var(--mut)}
+.tab[aria-selected="true"]{background:var(--acc);border-color:var(--acc);color:#fff}
+.tab[aria-selected="true"] small{color:#ffe6ee}
+.tab:focus-visible,.ex summary:focus-visible{outline:3px solid var(--acc);outline-offset:2px}
+.head{margin:16px 0 4px}
+.head h2{font-family:'Fraunces',Georgia,serif;font-size:24px;margin:0}
+.head p{margin:4px 0 0;color:var(--mut)}
+.prog{height:8px;background:var(--acc2);border-radius:8px;overflow:hidden;margin:12px 0 4px}
+.prog i{display:block;height:100%;width:0;background:var(--ok);transition:width .3s}
+.ptxt{font-size:14px;color:var(--mut);margin:0 0 12px}
+.ex{background:var(--card);border:2px solid var(--line);border-radius:18px;margin:12px 0;overflow:hidden}
+.ex.done{border-color:var(--ok)}
+.ex summary{list-style:none;cursor:pointer;padding:14px;display:flex;gap:12px;align-items:center}
+.ex summary::-webkit-details-marker{display:none}
+.chk{flex:none;width:34px;height:34px;border-radius:50%;border:3px solid var(--acc);background:none;color:#fff;font-size:18px;font-weight:800;cursor:pointer;display:grid;place-items:center}
+.done .chk{background:var(--ok);border-color:var(--ok)}
+.t{flex:1}
+.t b{display:block;font-size:18px;line-height:1.2}
+.t span{color:var(--mut);font-size:14px}
+.big{display:grid;grid-template-columns:repeat(2,1fr);gap:8px;padding:0 14px 12px}
+@media (min-width:480px){.big{grid-template-columns:repeat(4,1fr)}}
+.pill{background:var(--acc2);border-radius:12px;padding:8px 6px;text-align:center}
+.pill b{display:block;font-size:18px;color:var(--acc)}
+.pill span{font-size:12px;color:var(--mut);display:block;line-height:1.1;margin-top:2px}
+.body{padding:0 14px 16px;border-top:1px dashed var(--line);padding-top:12px}
+.body p{margin:0 0 8px}
+.body .tip{background:var(--acc2);border-radius:12px;padding:10px 12px;font-size:15px}
+.note{font-size:14px;color:var(--mut);margin-top:20px;text-align:center}
+button.reset{display:block;margin:16px auto 0;background:none;border:2px solid var(--line);color:var(--mut);border-radius:12px;padding:8px 16px;font:700 14px 'Nunito',sans-serif;cursor:pointer}
+.tab{font-size:13px;padding:8px 2px}.tab small{font-size:10px}
+.back{display:inline-block;color:var(--acc);font-weight:800;text-decoration:none;margin-bottom:4px}
+.wk{display:flex;gap:12px;background:var(--card);border:2px solid var(--line);border-radius:16px;padding:12px 14px;margin:10px 0}
+.wk>b{flex:none;width:84px;color:var(--acc)}.wk strong{display:block}.wk span{color:var(--mut);font-size:15px}
+.cardio{background:var(--acc2);border-radius:16px;padding:12px 14px;margin:14px 0}.cardio p{margin:4px 0 0;font-size:15px}
+</style>
+</head>
+<body>
+<main>
+<a class="back" href="../">← Volver al menú</a>
+<h1>Mi rutina 💪</h1>
+<p class="sub">Elige la sesión que te toca hoy. Respeta los descansos entre series y el tiempo máximo para pasar al siguiente ejercicio para no enfriarte.</p>
+<div class="tabs" role="tablist" id="tabs"></div>
+<section id="day" aria-live="polite"></section>
+<p class="note">Regla de oro: Deja al menos 48 horas de descanso entre la Sesión 1 y la Sesión 3 para que tus piernas crezcan. ¡No olvides tu comida post-entreno!</p>
+<button class="reset" id="reset">Borrar mis marcas</button>
+</main>
+<script>
+const DAYS=[
+{cardio:"Camina en la cinta con inclinación del 6 al 10 % y velocidad de 4,5 a 5,2 km/h, sin agarrarte de los pasamanos y empujando con el talón. No trotes. Omítelo si ese día hay ensayo agotador o show.",n:"Sesión 1",s:"Cuádriceps y Glúteo",t:"Empuje y Glúteo Mayor (Máx. 45 min)",d:"Enfoque en volumen de muslos y glúteo. Deja 2 repeticiones en reserva en cada serie. No pases de 3 minutos al cambiar de máquina.",ex:[
+["Hip thrust con barra o máquina","3","8–12","2 min","Máx. 3 min","El ejercicio #1 para glúteo mayor. Empuja con los talones, mira al frente y al llegar arriba aprieta fuerte el glúteo por 1 segundo."],
+["Prensa de piernas a 45° (o Hack)","3","8–12","2 min","Máx. 3 min","Pies en la parte media/baja al ancho de la cadera. Baja profundo controlando el peso sin despegar la espalda baja del respaldo."],
+["Sentadilla búlgara (mancuernas ligeras)","2","10–12 x pierna","90 seg","Máx. 2 min","Pie de atrás apoyado en el banco. Baja con control enfocándote en el equilibrio y sintiendo el trabajo en la pierna de adelante."],
+["Extensión de cuádriceps en máquina","2","12–15","60 seg","Fin de sesión","Aislamiento puro para dar forma al muslo. Sube con control, aguanta 1 segundo arriba apretando el muslo y baja lento."]]},
+{n:"Sesión 2",s:"Postura y Cintura",t:"Torso delicado y Core (Máx. 35 min)",d:"Sesión rápida sin fatiga para las piernas. Ideal para hacer entre días de pierna o cerca de días de ensayo. Transiciones rápidas.",ex:[
+["Jalón al pecho (agarre neutro o abierto)","3","10–12","90 seg","Máx. 2 min","Carga moderada. Lleva los hombros hacia abajo y atrás al jalar. Trabaja la espalda alta, que ayuda a la postura y a que la silueta se vea más estilizada."],
+["Elevaciones laterales con mancuernas","3","15","60 seg","Máx. 90 seg","Poco peso y movimiento limpio hasta la altura de los hombros. Le da un tono suave y elegante al brazo sin engrosar el torso."],
+["Face pulls en polea alta","2","15","60 seg","Máx. 90 seg","Jala la cuerda hacia tu frente separando las manos y con los codos altos. Excelente para mantener una postura derechita y elegante."],
+["Vacío abdominal (Stomach Vacuum)","3","20 seg","45 seg","Máx. 1 min","De pie o apoyada. Saca todo el aire por completo y mete el ombligo hacia la columna. Fortalece el abdomen profundo y ayuda a la postura. La cintura baja sobre todo con la alimentación."],
+["Plancha isométrica (Plank)","3","40–45 seg","60 seg","Fin de sesión","Cuerpo en línea recta apoyando antebrazos y abdomen duro. Fortalece el abdomen profundo y la estabilidad del torso."]]},
+{cardio:"Camina en la cinta con inclinación del 6 al 10 % y velocidad de 4,5 a 5,2 km/h, sin agarrarte de los pasamanos y empujando con el talón. No trotes. Omítelo si ese día hay ensayo agotador o show.",n:"Sesión 3",s:"Isquios y Cadera",t:"Cadena Posterior y Cadera (Máx. 45 min)",d:"Da forma a la curva lateral de la cadera y parte trasera del muslo. Hazla por la mañana y come bien después. Las primeras 2 o 3 semanas hazla suave: 2 series por ejercicio y deja 3 repeticiones en reserva. Si ese día hay show cerca, pásala al domingo.",ex:[
+["Peso muerto rumano (RDL) con mancuernas","3","8–10","2 min","Máx. 3 min","Rodillas apenas flexionadas, lleva la cadera bien atrás rozando tus piernas con las pesas hasta sentir el estiramiento detrás del muslo."],
+["Curl femoral sentado (o tumbado)","3","10–12","90 seg","Máx. 2 min","Fundamental para dar volumen a la pierna vista de perfil. Cuando regreses el peso, hazlo lento contando 3 segundos."],
+["Abducción de cadera sentada en máquina","3","15–20","60 seg","Máx. 90 seg","Trabaja el glúteo medio, que da forma a la parte alta de la cadera. Inclina ligeramente el torso hacia adelante, abre con fuerza y regresa despacio."],
+["Extensiones de espalda a 45° (glúteo)","2","12–15","60 seg","Fin de sesión","Puntas de los pies ligeramente hacia afuera y espalda alta un poquito redondeada. Sube apretando únicamente los glúteos."]]},{n:"Mi semana",s:"Calendario",t:"Así se acomoda tu semana",d:"Un ejemplo para semanas normales. Si algo cambia, se mueve: lo importante es dejar 48 horas entre las sesiones de pierna.",nota:"Si esa semana hay shows extra por la campaña, la Sesión 3 pasa al domingo o se salta. Un día perdido no arruina el plan.",semana:[
+["Lunes","Ensayo","Ensayo en la productora: es tu cardio de la semana. Come bien y duerme."],
+["Martes","Gimnasio · Sesión 1","Cuádriceps y glúteo + 10 min de caminata en pendiente. No olvides tu comida post-entreno."],
+["Miércoles","Ensayo + Sesión 2","Postura y cintura (máx. 35 min). No toca piernas, así que no afecta tu baile."],
+["Jueves","Gimnasio · Sesión 3","Isquios y cadera + 10 min de caminata. Hazla por la mañana y suave las primeras semanas."],
+["Viernes","Show","Sin pesas. Come bien antes del show."],
+["Sábado","Show","Sin pesas. Estira suave si sientes las piernas cargadas."],
+["Domingo","Descanso","Descanso total, o la Sesión 2 si el miércoles estuvo muy ocupado."]]}];
+const $=s=>document.querySelector(s);
+let cur=0,st={};
+try{st=JSON.parse(localStorage.getItem('rut_alexandra_v2')||'{}')}catch(e){}
+function save(){try{localStorage.setItem('rut_alexandra_v2',JSON.stringify(st))}catch(e){}}
+function tabs(){$('#tabs').innerHTML=DAYS.map((d,i)=>`<button class="tab" role="tab" aria-selected="${i==cur}" data-i="${i}">${d.n}<small>${d.s}</small></button>`).join('')}
+function render(){
+ const d=DAYS[cur];
+ if(d.semana){$('#day').innerHTML=`<div class="head"><h2>${d.t}</h2><p>${d.d}</p></div>`+d.semana.map(x=>`<div class="wk"><b>${x[0]}</b><div><strong>${x[1]}</strong><span>${x[2]}</span></div></div>`).join('')+`<p class="note">${d.nota}</p>`;return}
+ const done=d.ex.filter((_,j)=>st[cur+'-'+j]).length;
+ $('#day').innerHTML=`<div class="head"><h2>${d.t}</h2><p>${d.d}</p></div>
+ <div class="prog"><i style="width:${done/d.ex.length*100}%"></i></div><p class="ptxt">${done} de ${d.ex.length} ejercicios listos</p>`+
+ d.ex.map((e,j)=>`<details class="ex${st[cur+'-'+j]?' done':''}"><summary><button class="chk" data-k="${cur}-${j}" aria-label="Marcar como hecho">${st[cur+'-'+j]?'✓':''}</button><div class="t"><b>${e[0]}</b><span>Toca para ver cómo hacerlo</span></div></summary>
+ <div class="big"><div class="pill"><b>${e[1]}</b><span>series</span></div><div class="pill"><b>${e[2]}</b><span>repeticiones</span></div><div class="pill"><b>${e[3]}</b><span>descanso serie</span></div><div class="pill"><b>${e[4]}</b><span>pasar al sig.</span></div></div>
+ <div class="body"><p class="tip">${e[5]}</p></div></details>`).join('')+(d.cardio?`<div class="cardio"><b>🚶‍♀️ Cardio final · 10 min</b><p>${d.cardio}</p></div>`:'');
+}
+$('#tabs').onclick=e=>{const b=e.target.closest('.tab');if(!b)return;cur=+b.dataset.i;tabs();render();scrollTo({top:0})};
+$('#day').onclick=e=>{const c=e.target.closest('.chk');if(!c)return;e.preventDefault();e.stopPropagation();const k=c.dataset.k;st[k]=!st[k];save();
+ const open=[...document.querySelectorAll('.ex')].map(x=>x.open);render();document.querySelectorAll('.ex').forEach((x,i)=>x.open=open[i])};
+$('#reset').onclick=()=>{st={};save();render()};
+tabs();render();
+</script>
+</body>
+</html>

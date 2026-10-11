@@ -1,0 +1,1986 @@
+[
+  {
+    "id": "triple-crujiente",
+    "categoria": 0,
+    "nombre": "Triple crujiente",
+    "frase": "Crocantito por fuera, cremoso por dentro. Sabe a sándwich de carrito pero hecho en casa.",
+    "tiempo": "10 min",
+    "nivel": "Fácil",
+    "ingredientes": [
+      "1 pan francés",
+      "2 huevos duros",
+      "1 tomate",
+      "2 hojas de lechuga",
+      "2 tajadas de queso fresco",
+      "1 cda. de yogur griego natural",
+      "Limón y sal"
+    ],
+    "pasos": [
+      {
+        "t": "Sancocha los huevos",
+        "m": 10,
+        "d": "Pon los huevos en una ollita con agua fría hasta que los cubra. Cuando el agua empiece a hervir fuerte, baja un poco el fuego y cuenta 10 minutos exactos.",
+        "ok": "Al partir un huevo, la yema está amarillita y firme, sin ese borde verde oscuro."
+      },
+      {
+        "t": "Enfría y pela rápido",
+        "m": 3,
+        "d": "Pásalos a un tazón con agua fría o hielo. Golpéalos suavecito contra la mesa, ruédalos y pélalos empezando por la parte más gordita.",
+        "ok": "La cáscara sale enterita y no se rompe la clara."
+      },
+      {
+        "t": "Alista el pan",
+        "d": "Corta el pan a lo largo, pero no lo separes del todo. Sácale un poco de miga del centro para hacerle como un huequito.",
+        "ok": "Queda como una canoita, con buen espacio para el relleno."
+      },
+      {
+        "t": "Tuesta el pan",
+        "m": 3,
+        "d": "Pon el pan abierto en la freidora de aire a 180 °C por 3 minutitos.",
+        "ok": "Suena crocantito al tocarlo y tiene un color doradito claro."
+      },
+      {
+        "t": "Prepara la cremita de huevo",
+        "d": "Chanca los huevos con un tenedor en un platito. Échale el yogur, unas gotitas de limón y su sal al gusto. Mezcla bien.",
+        "ok": "Queda como una pastita suave que no chorrea."
+      },
+      {
+        "t": "Arma el sánguche",
+        "d": "Pon abajo la lechuga bien sequita, encima la cremita de huevo, sus rodajas de tomate y el queso fresco. Ciérralo, aplasta suavecito y córtalo en diagonal con cuidado.",
+        "ok": "No se desparrama el relleno al morderlo."
+      }
+    ],
+    "tip": "Seca bien el tomate y la lechuga con papel toalla para que el pan no se ponga aguado.",
+    "utensilios": ["Olla pequeña", "Freidora de aire", "Cuchillo de sierra", "Tabla de picar", "Plato y tenedor"],
+    "antes": [
+      "Pon a sancochar los huevos antes de hacer cualquier otra cosa.",
+      "Lava y seca bien las hojas de lechuga.",
+      "Prende la freidora un par de minutos antes para que vaya calentando."
+    ],
+    "errores": [
+      "Si el pan queda medio chicloso, dale 1 minutito más en la freidora.",
+      "Si la cremita de huevo queda muy ácida, ponle un poquitín más de sal para nivelar.",
+      "Si la yema tiene un borde verde, se te pasó la mano sancochando; la próxima bájale un minuto."
+    ],
+    "guardar": "Mejor cómetelo al instante. Si lo haces para más tarde, guarda el relleno en la refri y tuéstale el pan recién cuando vayan a comer."
+  },
+  {
+    "id": "quinua-carretillera",
+    "categoria": 0,
+    "nombre": "Quinua carretillera",
+    "frase": "Calentita, espesita y rica. El desayuno de la esquina de siempre, pero hecho en casa.",
+    "tiempo": "15 min",
+    "nivel": "Fácil",
+    "ingredientes": [
+      "½ taza de quinua cocida",
+      "1 taza de leche descremada o vegetal",
+      "1 palito de canela",
+      "2 clavos de olor",
+      "Un pedacito de cáscara de manzana o piña limpia",
+      "1 cdta. de miel o estevia",
+      "2 huevos duros al costado para acompañar"
+    ],
+    "pasos": [
+      {
+        "t": "Sácale el sabor",
+        "m": 4,
+        "d": "En una ollita pon la leche, la canela, el clavo y la cáscara a fuego bajito para que suelte su sabor sin que hierva a borbotones.",
+        "ok": "Sale un vapor que huele riquísimo a canela y clavo."
+      },
+      {
+        "t": "Mezcla la quinua",
+        "m": 6,
+        "d": "Echa la quinua que ya tenías cocida y mueve con cuchara raspando el fondo para que no se pegue.",
+        "ok": "La leche se va poniendo un poco más espesa."
+      },
+      {
+        "t": "El secreto de la carretilla",
+        "m": 2,
+        "d": "Saca la canela, el clavo y las cáscaras. Saca unas 3 cucharadas de la quinua, licúalas rápido con un poquito de agua y regrésalas a la olla.",
+        "ok": "Te queda espesita y suavecita, igualita a la de la señora de la carretilla."
+      },
+      {
+        "t": "Endulza y sirve",
+        "d": "Apaga la cocina, échale su miel, un poquito de canela molida encima y sírvelo en un buen tazón con sus huevos duros pelados al lado.",
+        "ok": "Bien calientito y en su punto de dulce."
+      }
+    ],
+    "tip": "Licuar un poquito de la misma quinua hace que espese rico sin tener que echarle chuño ni maicena.",
+    "utensilios": ["Olla pequeña", "Cuchara de palo", "Licuadora", "Tazón grande"],
+    "antes": [
+      "Ten la quinua ya sancochada de antes (hervida solo en agua sin sal).",
+      "Pela los huevos duros y tenlos listos."
+    ],
+    "errores": [
+      "Si la leche parece que se cortó, es porque el fuego estaba muy alto.",
+      "Si te queda muy aguada, déjala hervir 2 minutitos más a fuego lento moviendo sin parar."
+    ],
+    "guardar": "Dura hasta 3 días en la refri. Cuando la calientes, échale un chorrito de agua o leche caliente porque en la refri se espesa."
+  },
+  {
+    "id": "panqueques-avena",
+    "categoria": 0,
+    "nombre": "Panqueques de avena y plátano",
+    "frase": "Gorditos, llenadores y dulces de forma natural. Sin harina blanca.",
+    "tiempo": "12 min",
+    "nivel": "Fácil",
+    "ingredientes": [
+      "½ taza de avena en hojuelas",
+      "1 plátano de seda bien maduro (con manchitas negras)",
+      "2 huevos enteros (o 1 huevo + 2 claras)",
+      "1 cdta. de canela en polvo",
+      "½ cdta. de polvo de hornear",
+      "1 cda. de yogur griego natural"
+    ],
+    "pasos": [
+      {
+        "t": "Licúa todo",
+        "m": 2,
+        "d": "Mete a la licuadora la avena, el plátano, los huevos, la canela y el polvo de hornear. Licúa bien hasta que quede como una cremita.",
+        "ok": "Queda una masita espesa y sin pedazos grandes de avena."
+      },
+      {
+        "t": "Déjala reposar",
+        "m": 3,
+        "d": "Deja la mezcla ahí mismo en la licuadora unos minutitos para que la avena chupe bien el líquido.",
+        "ok": "Vas a notar que se pone un poquito más espesa."
+      },
+      {
+        "t": "Prepara la sartén",
+        "m": 2,
+        "d": "Pon una sartén que no pegue a fuego bajo. Pásale una servilleta de papel con apenitas una gota de aceite por todo el fondo.",
+        "ok": "Pones la mano encimita y se siente calientito, pero sin botar humo."
+      },
+      {
+        "t": "Cocina con cariño",
+        "m": 4,
+        "d": "Echa de a poquitos formando círculos chicos. Cocina 2 minutos hasta que le salgan huequitos (burbujas) arriba, mete la espátula con cuidado, voltéalo y dale 1 minuto más.",
+        "ok": "Salen doraditos por los dos lados y no se sienten crudos al medio."
+      },
+      {
+        "t": "Sírvelos ricos",
+        "d": "Pon uno encima del otro y acompáñalos con un poquito de yogur griego natural y rodajitas de plátano encima.",
+        "ok": "Queda una torre rica y provocativa."
+      }
+    ],
+    "tip": "No te saltes el polvo de hornear ni el reposo; ese es el secreto para que no te queden duros como suela de zapato.",
+    "utensilios": ["Licuadora", "Sartén de teflón", "Espátula planita"],
+    "antes": [
+      "Asegúrate que el plátano esté negrito, así le da el dulce natural y no necesitas echar azúcar.",
+      "Pásale el aceite a la sartén antes de prender la hornilla."
+    ],
+    "errores": [
+      "Si se queman por fuera pero siguen crudos al medio, tu fuego está muy alto; bájalo al mínimo.",
+      "Si se te rompen al voltear, es porque los hiciste muy grandes o los volteaste muy rápido."
+    ],
+    "guardar": "Puedes guardar la masa cruda en la refri de un día para otro en un táper bien cerrado."
+  },
+  {
+    "id": "lomo-saltado",
+    "categoria": 1,
+    "nombre": "Lomo saltado sin culpa",
+    "frase": "Todo el sabor jugosito del chifa, pero con papas crocantitas sin freír en harto aceite.",
+    "tiempo": "25 min",
+    "nivel": "Media",
+    "ingredientes": [
+      "150 g de pechuga de pollo o carne en tiras",
+      "1 papa amarilla o canchán grande pelada y cortada para fritas",
+      "1 cebolla roja cortada gruesita",
+      "1 tomate rojito pero firme cortado grueso (en gajos)",
+      "½ ají amarillo cortado en tiritas largas",
+      "2 cdas. de sillao",
+      "1 cda. de vinagre tinto",
+      "1 cdta. de aceite",
+      "4 cdas. de arroz cocido para acompañar"
+    ],
+    "pasos": [
+      {
+        "t": "Prepara las papitas",
+        "m": 3,
+        "d": "Corta las papas parejas. Remójalas 5 minutos en agua fría, escúrrelas y sécalas bien sequitas con un secador limpio.",
+        "ok": "Tocarlas y que no se sientan nada mojadas."
+      },
+      {
+        "t": "Dora las papas en la freidora",
+        "m": 15,
+        "d": "Échales unas gotitas de aceite y su sal. Mételas a la freidora a 200 °C por 15 minutos. A la mitad del tiempo abre y sacúdelas un poco.",
+        "ok": "Quedan doraditas por fuera y suavecitas por dentro."
+      },
+      {
+        "t": "Dora la carne rápido",
+        "m": 3,
+        "d": "Calienta un sartén grande hasta que bote un poquito de humo. Echa el chorrito de aceite, mete la carne con sal y no la muevas por minuto y medio para que se dore; luego voltéala.",
+        "ok": "Se ve doradita y no bota agua que la sancoche."
+      },
+      {
+        "t": "Echa las verduras",
+        "m": 2,
+        "d": "Mete la cebolla, el ají y el tomate. Muévelo rapidito saltándolo, sin bajar el fuego por nada.",
+        "ok": "La cebolla se ve brillante pero todavía está crocantita, y el tomate no se deshace."
+      },
+      {
+        "t": "El juguito final",
+        "m": 1,
+        "d": "Echa el sillao y el vinagre por los bordes de la sartén para que suene y huela rico. Mezcla 20 segundos y apaga.",
+        "ok": "Todo queda bañado en un juguito oscuro y rico."
+      },
+      {
+        "t": "A servir se ha dicho",
+        "d": "Pon tu arrocito, acomoda el saltado al medio con su jugo y ponle las papas calientitas encima para que no se remojen.",
+        "ok": "Plato calientito, con carne jugosa y papas que crujen."
+      }
+    ],
+    "tip": "Las papas nunca se meten al jugo en la sartén si no quieres que se pongan aguadas; siempre van encimita al servir.",
+    "utensilios": ["Sartén grande o Wok", "Freidora de aire", "Cuchillo y tabla", "Cuchara de palo"],
+    "antes": [
+      "Regla de oro: ten todo cortadito y el sillao/vinagre en un vasito antes de prender el fuego. El saltado se hace volando.",
+      "Asegúrate que el arroz esté calientito."
+    ],
+    "errores": [
+      "Si la carne bota agua y parece sopa, tu sartén estaba fría o echaste demasiada carne de golpe.",
+      "Si el tomate se hace puré, es porque lo picaste muy chiquito o lo cocinaste mucho rato."
+    ],
+    "guardar": "Este plato es para comer al toque. Si sobra, calienta la carne y verduras aparte, y las papas dales otra pasada por la freidora."
+  },
+  {
+    "id": "aji-de-pollo",
+    "categoria": 1,
+    "nombre": "Ají de pollo ligero",
+    "frase": "Cremosito, amarillo y rico. Espesado con papa amarilla en vez de pan o galleta.",
+    "tiempo": "30 min",
+    "nivel": "Media",
+    "ingredientes": [
+      "1 pechuga de pollo sancochada y deshilachada finita",
+      "2 ajíes amarillos bien limpios (sin pepas ni venas)",
+      "1 papa amarilla mediana sancochada",
+      "½ taza de leche evaporada light o leche normal",
+      "1 diente de ajo picadito",
+      "½ cebolla roja picadita finita para el aderezo",
+      "1 huevo duro cortado",
+      "1 papa blanca sancochada en rodajas para servir",
+      "Arrocito blanco cocido al costado",
+      "Sal, pimienta y comino"
+    ],
+    "pasos": [
+      {
+        "t": "Quítale el picor al ají",
+        "m": 4,
+        "d": "Corta los ajíes limpios y dales un hervor en agua por 4 minutos. Esto es para que no pique tanto y pele fácil.",
+        "ok": "La cascarita del ají se afloja y huele rico sin hacerte estornudar."
+      },
+      {
+        "t": "Licúa el secreto de la crema",
+        "m": 2,
+        "d": "En la licuadora mete el ají hervido, la papa amarilla calientita pelada, la leche y un chorrito del agua donde herviste el pollo. Licúa bien.",
+        "ok": "Te queda una crema amarillita, espesa y sin grumos de papa."
+      },
+      {
+        "t": "Haz tu aderezo con paciencia",
+        "m": 4,
+        "d": "En una olla con apenitas de aceite, sofríe la cebolla con el ajo, su pizca de comino y sal a fuego bien bajito hasta que huela dulce.",
+        "ok": "La cebolla se ve transparente y suavecita, nada quemada."
+      },
+      {
+        "t": "Cocina la cremita",
+        "m": 5,
+        "d": "Echa lo licuado a la olla del aderezo. Mueve sin parar a fuego lento hasta que hierva despacito y espese rico.",
+        "ok": "Al pasar la cuchara se puede ver clarito el fondo de la olla."
+      },
+      {
+        "t": "Junta todo",
+        "m": 2,
+        "d": "Mete el pollo deshilachado a la olla, mezcla bien para que chupe la crema y prueba qué tal está de sal.",
+        "ok": "El pollo queda bien envuelto en la cremita amarilla."
+      },
+      {
+        "t": "Sírvelo con cariño",
+        "d": "Pon de base la papa sancochada en rodajas, encima su buen cucharón de ají de pollo, su huevo duro al costado y su arrocito.",
+        "ok": "Un platazo clásico, calientito y que no cae pesado."
+      }
+    ],
+    "tip": "Licuar la papa amarilla calientita es el trucazo para reemplazar la galleta soda o el pan remojado de la receta antigua.",
+    "utensilios": ["Olla mediana", "Licuadora", "Cuchillo", "Cuchara de palo"],
+    "antes": [
+      "Guarda un poquito del caldo donde sancochaste el pollo para licuar la crema.",
+      "Sancocha las papas con cáscara (la amarilla la pelas al instante que sale)."
+    ],
+    "errores": [
+      "Si la crema te quedó muy dura o gomosa, échale un chorrito más de caldito caliente para soltarla.",
+      "Si te pica mucho, échale un poquito más de leche o ralla un pedacito de queso fresco."
+    ],
+    "guardar": "Lo guardas en un táper en la refri y te dura 2 días. Para calentarlo, ponlo a fuego bajito con un chorrito de leche porque en la refri se espesa duro."
+  },
+  {
+    "id": "ceviche-camote",
+    "categoria": 1,
+    "nombre": "Ceviche con camote y choclo",
+    "frase": "Fresquito, picantito y rapidísimo. Para comerlo al momento.",
+    "tiempo": "15 min",
+    "nivel": "Fácil",
+    "ingredientes": [
+      "180 g de filete de pescado fresco (lenguado, perico o el que esté bonito)",
+      "Jugo de 4 limones fresquitos recién cortados",
+      "½ cebolla roja cortada en pluma lavadita",
+      "½ ají limo picadito bien chiquito (sin pepas)",
+      "Culantro fresco picadito",
+      "1 cubito de hielo",
+      "1 camote sancochado en rodajas",
+      "½ choclo sancochado y desgranado",
+      "Sal de cocina"
+    ],
+    "pasos": [
+      {
+        "t": "Corta el pescadito",
+        "m": 2,
+        "d": "Corta el pescado (que debe estar bien frío) en cuadritos medianos. Ponlos en un tazón de vidrio o metal hondo.",
+        "ok": "Cuadritos parejos que se sienten firmes al tocarlos."
+      },
+      {
+        "t": "Echa la sal y el hielo",
+        "m": 1,
+        "d": "Échale al pescado una buena cucharadita de sal y muévelo con cuidado junto con un cubito de hielo por 30 segundos.",
+        "ok": "El pescadito agarra la sal y se pone más durito."
+      },
+      {
+        "t": "Ponle el sabor",
+        "m": 1,
+        "d": "Agrega el ají limo y el culantro picadito. Dale unas vueltas para que el pescado vaya agarrando el olor.",
+        "ok": "Huele a cevichito fresco al instante."
+      },
+      {
+        "t": "Exprime los limones suavecito",
+        "m": 1,
+        "d": "Exprime los limones directito al tazón, pero no los apachurres hasta el final. Saca el hielo y remueve por unos 45 segundos.",
+        "ok": "Se forma ese juguito blanquito riquísimo y el pescado cambia un poquito de color por fuera."
+      },
+      {
+        "t": "Sirve volando",
+        "d": "Échale la cebolla bien escurrida, dale una última movida y a servir en el plato con su camote y su choclo.",
+        "ok": "Pescadito suave y jugoso, cebolla crocante."
+      }
+    ],
+    "tip": "Nunca exprimas el limón hasta dejarlo seco, porque la cáscara bota un amargor feo que malogra el ceviche.",
+    "utensilios": ["Tazón de vidrio o metal", "Cuchillo filudo", "Exprimidor (opcional)"],
+    "antes": [
+      "El camote y el choclo tienen que estar sancochados y fríos desde antes.",
+      "El pescado tiene que estar en la refri hasta el segundo exacto que lo vas a cortar.",
+      "Pasa la cebolla picada por agua con hielo un ratito para quitarle el olor fuerte."
+    ],
+    "errores": [
+      "Si el pescado se siente chicloso o muy blanco, es porque lo dejaste reposando en el limón. ¡El ceviche se come al instante!",
+      "Si el jugo te sabe amargo, fue porque apachurraste muy fuerte los limones."
+    ],
+    "guardar": "Esto no se guarda. Se hace y se come ahí mismito."
+  },
+  {
+    "id": "pie-manzana",
+    "categoria": 2,
+    "nombre": "Pie de manzana en taza",
+    "frase": "Un antojito dulce y calientito que te saca de apuros en 5 minutos.",
+    "tiempo": "5 min",
+    "nivel": "Muy fácil",
+    "ingredientes": [
+      "1 manzana (delicia o la que tengas) cortada en cuadritos chicos",
+      "1 cdta. de canela en polvo",
+      "1 cdta. de agua",
+      "1 cdta. de miel",
+      "3 cdas. de yogur griego natural",
+      "1 cda. de avena o granola sin azúcar"
+    ],
+    "pasos": [
+      {
+        "t": "Alista tu manzana",
+        "m": 2,
+        "d": "Pica la manzana en cuadritos chicos, déjale la cáscara que es buena para la digestión.",
+        "ok": "Cuadritos chiquitos que entran fácil en la cuchara."
+      },
+      {
+        "t": "Cocínala rapidito",
+        "m": 2,
+        "d": "En una taza grande, mezcla la manzana con la canela, la miel y esa gotita de agua. Tapa la taza con un platito chiquito y métela al microondas por 2 minutos.",
+        "ok": "Al sacarla huele a canela rica, la manzana está suavecita y tiene un juguito espeso en el fondo."
+      },
+      {
+        "t": "El toque final",
+        "m": 1,
+        "d": "Déjala enfriar un minutito. Ponle el yogur heladito encima y rocíale la avena para que cruja.",
+        "ok": "Sientes lo calientito de la manzana y lo frío del yogur al mismo tiempo."
+      }
+    ],
+    "tip": "Tapar la taza con un platito en el microondas es clave para que la manzana se cocine con su vaporcito y no se seque.",
+    "utensilios": ["Taza grande para microondas", "Un platito para tapar", "Cuchara"],
+    "antes": [
+      "Lava bien la manzana si la vas a usar con cáscara.",
+      "El yogur tenlo en la refri, no lo saques hasta el final."
+    ],
+    "errores": [
+      "Si la manzana sigue dura, tápala y dale 30 segundos más.",
+      "Si quedó un charco de agua abajo, destápala y métela 20 segundos para que se seque un poquito."
+    ],
+    "guardar": "Puedes hacer la manzana cocida y guardarla en la refri por días. Pero el yogur y la avena se los pones justo cuando vayas a comer."
+  },
+  {
+    "id": "helado-platano",
+    "categoria": 2,
+    "nombre": "Helado de plátano",
+    "frase": "Un postre fresquito y cremoso, usando solo plátano y nada de azúcar.",
+    "tiempo": "5 min + congelado previo",
+    "nivel": "Muy fácil",
+    "ingredientes": [
+      "2 plátanos de seda bien pecosos, cortados y congelados",
+      "Un chorrito apenitas de leche (para ayudar a licuar)",
+      "1 cdta. de cacao puro en polvo (si quieres que sea de chocolate)",
+      "Una pizca de canela"
+    ],
+    "pasos": [
+      {
+        "t": "Deja sudar un ratito",
+        "m": 2,
+        "d": "Saca los plátanos del congelador y déjalos unos 2 minutitos afuera para no quemar el motor de tu licuadora.",
+        "ok": "El plátano sigue como piedra pero cede un poquito si lo aprietas."
+      },
+      {
+        "t": "Licúa de a pocos",
+        "m": 2,
+        "d": "Mete los plátanos con el chorrito de leche a la licuadora. Licúa de a pocos, parando para empujar lo de los lados hacia abajo con una cuchara.",
+        "ok": "Vas a ver cómo pasa de estar en pedacitos a volverse una cremita brillante."
+      },
+      {
+        "t": "Ponle el sabor y sirve",
+        "m": 1,
+        "d": "Échale el cacao o la canela y licúa unos segundos más. Sírvelo ahí mismito en una copa.",
+        "ok": "Cremocito y espesito, igualito al de las heladerías."
+      }
+    ],
+    "tip": "Cuando congeles los plátanos, córtalos en rodajas y ponlos separaditos en un plato, para que no se te haga un solo bloque de hielo que rompa tu licuadora.",
+    "utensilios": ["Licuadora fuerte", "Cuchara", "Copa o vasito"],
+    "antes": [
+      "Acuérdate de congelar los plátanos unas buenas 4 horas antes."
+    ],
+    "errores": [
+      "Si la licuadora se traba, échale una cucharada más de leche, pero no te pases o se hará jugo.",
+      "Si por licuar mucho se te derritió, mételo en un táper al congelador por 20 minutos para que vuelva a endurecer."
+    ],
+    "guardar": "Puedes guardarlo en el congelador sin problema. Cuando lo quieras comer, sácalo unos 5 minutitos antes para que se ponga suavecito."
+  },
+  {
+    "id": "pan-pollo",
+    "categoria": 2,
+    "nombre": "Pan con pollo, mayonesa falsa",
+    "frase": "Para tu lonche. Igual de cremoso y rico que siempre, pero sin la pesadez de la mayonesa.",
+    "tiempo": "10 min",
+    "nivel": "Fácil",
+    "ingredientes": [
+      "1 pan francés crocantito",
+      "100 g a 120 g de pollo sancochado y deshilachado (aprox. 1 taza)",
+      "2 cdas. de yogur griego natural (sin azúcar)",
+      "Un toquecito de mostaza",
+      "Unas 3 gotitas de limón",
+      "Sal, pimienta y orégano",
+      "Lechuga lavadita y rodajas de tomate"
+    ],
+    "pasos": [
+      {
+        "t": "Prepara la mayonesa falsa",
+        "m": 2,
+        "d": "En un platito hondo, mezcla el yogur griego, la mostaza, el limón, la sal y la pimienta con un tenedor.",
+        "ok": "Te queda una cremita suavecita que sabe igualito a la mayonesa casera."
+      },
+      {
+        "t": "Mezcla tu pollito",
+        "m": 1,
+        "d": "Echa el pollo deshilachado en la cremita y mezcla bien para que todo se bañe rico.",
+        "ok": "Queda un pollo jugoso, nada seco."
+      },
+      {
+        "t": "Tuesta tu pancito",
+        "m": 2,
+        "d": "Abre el pan francés y dale una tostada de 2 minutitos en sartén o donde calientes el pan.",
+        "ok": "El pan se siente calientito y suena crujiente."
+      },
+      {
+        "t": "Arma el pan con cariño",
+        "d": "Ponle su hojita de lechuga (bien seca), su tomate con apenitas de sal, y échale buena cantidad de la mezcla de pollo.",
+        "ok": "Un sánguche gordito y provocativo."
+      }
+    ],
+    "tip": "Esa mezcla de yogur con gotitas de limón engaña riquísimo al paladar; no vas a extrañar para nada la mayonesa de bolsa.",
+    "utensilios": ["Tazón chico", "Tenedor", "Cuchillo de pan", "Sartén para tostar"],
+    "antes": [
+      "Usa pollo sancochado que ya esté frío para que no caliente el yogur.",
+      "Seca bien la lechuga y el tomate con papel toalla."
+    ],
+    "errores": [
+      "Si ves que el yogur te vino muy aguado, pásalo por un colador chiquito 5 minutitos para que bote el agua.",
+      "Si el pan se pone fofo, seguro la lechuga estaba mojada. Pon siempre la lechuga seca primero para que proteja el pan."
+    ],
+    "guardar": "Esta mezclita de pollo te dura en la refri de un día para otro. Pero siempre arma el pan justo antes de comer."
+  },
+  {
+    "id": "omelette-pollo",
+    "categoria": 3,
+    "nombre": "Omelette relleno de pollo",
+    "frase": "Rapidísimo y te deja llenito. Para cenar rico sin pasarte horas cocinando.",
+    "tiempo": "10 min",
+    "nivel": "Fácil",
+    "ingredientes": [
+      "3 huevos",
+      "100 g de pollo sancochado y deshilachado (aprox. 1 taza)",
+      "Un puñadito de espinaca picada",
+      "Un par de cubitos de queso fresco picado chiquito",
+      "Sal y orégano",
+      "Un chorrito chiquito de aceite",
+      "Ensalada de pepino y tomate al costado"
+    ],
+    "pasos": [
+      {
+        "t": "Bate bien los huevos",
+        "m": 1,
+        "d": "En un plato hondo bate los 3 huevos con ganas usando un tenedor, échale su sal y su orégano.",
+        "ok": "Queda una mezcla parejita, no se ven partes blancas de la clara flotando."
+      },
+      {
+        "t": "Calienta bien tu sartén",
+        "m": 2,
+        "d": "Pon tu sartén de teflón a fuego medio. Pásale una servilleta con una gotita de aceite por todo el fondo.",
+        "ok": "Si le echas una gotita de huevo, se cocina al toque pero sin saltar aceite ni hacer humo."
+      },
+      {
+        "t": "Que cocine parejo tapadito",
+        "m": 2,
+        "d": "Echa los huevos, mueve apenitas el centro y luego tápalo bajando el fuego un poquito.",
+        "ok": "Los bordes se ven cocidos y el medio todavía un poquito mojadito."
+      },
+      {
+        "t": "Echa el relleno",
+        "m": 1,
+        "d": "Pon el pollito, la espinaca y el queso solo en la mitad del huevo. Tápalo de nuevo por 1 minutito.",
+        "ok": "El quesito se empieza a poner suave."
+      },
+      {
+        "t": "Dóblalo como empanada",
+        "m": 1,
+        "d": "Mete la espátula por el lado que no tiene relleno, levántalo y dóblalo cerrando el omelette. Pásalo a tu plato.",
+        "ok": "Queda doradito claro por fuera, y el quesito derretido por dentro."
+      }
+    ],
+    "tip": "Si tapas la sartén, el vapor ayuda a cocinar el huevo por arriba, así no tienes que estar sufriendo para voltearlo.",
+    "utensilios": ["Sartén de teflón con tapa", "Espátula", "Plato y tenedor"],
+    "antes": [
+      "El pollo ponlo a temperatura ambiente. Si lo metes helado de la refri, va a enfriar tu huevo.",
+      "Lava y pica tu espinaca antes de empezar."
+    ],
+    "errores": [
+      "Si se te quemó por abajo y quedó crudo arriba, el fuego estaba muy fuerte; paciencia y fuego bajo.",
+      "Si se rompió al doblarlo, te apuraste; faltaba dejar que cocine un poquito más el centro."
+    ],
+    "guardar": "Esto te lo comes calientito. Calentado en el microondas el huevo se pone medio jebe, así que no vale la pena guardarlo."
+  },
+  {
+    "id": "causa-pollo",
+    "categoria": 3,
+    "nombre": "Causa ligera de pollo",
+    "frase": "Fresquita y suavecita. Clásico dominguero sin bañarlo en aceite.",
+    "tiempo": "25 min",
+    "nivel": "Media",
+    "ingredientes": [
+      "3 papas amarillas medianas",
+      "1 cda. de ají amarillo molido (del que no pica)",
+      "Jugo de 1 limón",
+      "100 g a 120 g de pollo deshilachado (aprox. 1 taza)",
+      "2 cdas. de yogur griego natural",
+      "Unas láminas de palta fuertecita",
+      "Sal y pimienta"
+    ],
+    "pasos": [
+      {
+        "t": "Sancocha y aplasta",
+        "m": 15,
+        "d": "Hierve las papas con cáscara. Apenas estén suaves, pélalas (con cuidado de no quemarte mucho) y aplástalas bien aplastadas calientitas.",
+        "ok": "Te queda un puré amarillito y sin grumos."
+      },
+      {
+        "t": "Prepara la masita",
+        "m": 3,
+        "d": "Deja enfriar un poquito el puré. Échale el ají amarillo, su jugo de limón y la sal. Mézclalo amasando con tu mano limpia.",
+        "ok": "Se siente una masita suave que no se te pega a los dedos."
+      },
+      {
+        "t": "Alista el relleno",
+        "m": 2,
+        "d": "Mezcla en un platito el pollito deshilachado con el yogur, sal y una pizca de pimienta.",
+        "ok": "Queda un pollo cremoso y rico."
+      },
+      {
+        "t": "Arma las capitas",
+        "m": 3,
+        "d": "Haz una camita de la papa, ponle sus tajadas de palta, luego el relleno de pollo, y tápalo con otra capita de papa.",
+        "ok": "Queda armadito, no se desmorona y se notan los colores."
+      }
+    ],
+    "tip": "Aplastar la papa mientras sigue calientita es el trucazo para que quede súper suave; pero la amasas cuando enfríe para que no se te ponga chiclosa.",
+    "utensilios": ["Olla", "Prensapapas o tenedor fuerte", "Platito hondo"],
+    "antes": [
+      "Cuando sancoches las papas, vigílalas para que no se revienten, porque si se llenan de agua la causa queda aguachenta."
+    ],
+    "errores": [
+      "Si la masa se te está rajando, está muy seca; échale un chorrito mínimo de caldito o agüita.",
+      "Si la masa te quedó muy aguada, la papa chupó agua en la olla; espárcela en un plato un rato para que se seque antes de amasarla."
+    ],
+    "guardar": "En la refri te aguanta para el día siguiente si la tapas bien con plástico para que la palta no se ponga negra."
+  },
+  {
+    "id": "chicharron-pollo",
+    "categoria": 3,
+    "nombre": "Chicharrón de pollo crujiente",
+    "frase": "Doradito, crocante y bien rico, ¡pero sin freírlo en la sartén!",
+    "tiempo": "20 min",
+    "nivel": "Fácil",
+    "ingredientes": [
+      "1 pechuga de pollo cortada en trozos medianos",
+      "Jugo de 1 limón",
+      "2 cdas. de sillao",
+      "1 cdta. de ajo molido",
+      "Ralladura de kion (apenas un poquito)",
+      "2 cucharadas bien servidas de avena licuada (que parezca harina)",
+      "1 clara de huevo (para que pegue bien)",
+      "Su ensaladita fresca y sus limones para servir"
+    ],
+    "pasos": [
+      {
+        "t": "Que agarre sabor",
+        "m": 8,
+        "d": "Mezcla los trozos de pollo con el sillao, el ajo, el kion y el limón. Déjalo reposando para que chupe el gusto.",
+        "ok": "El pollito huele a aderezo rico oriental."
+      },
+      {
+        "t": "Pásalo por la avena",
+        "m": 2,
+        "d": "Pasa los pedazos de pollo primero por la clara de huevo y luego rebózalos en la avena molida, sacudiendo lo que sobre.",
+        "ok": "Todos los pedazos quedan blanquitos y cubiertos parejito."
+      },
+      {
+        "t": "A la freidora",
+        "m": 12,
+        "d": "Acomoda los trozos en la freidora de aire a 200 °C. No los amontones. Dales 12 minutos y a la mitad del tiempo abre y voltéalos un poco.",
+        "ok": "Te salen doraditos, crujientes por fuera y jugositos al morder."
+      }
+    ],
+    "tip": "Pasarlo por la clara de huevo asegura que tu avena se quede bien pegadita al pollo y no termine toda volando en la freidora.",
+    "utensilios": ["Freidora de aire", "Tazón para mezclar", "Plato hondo"],
+    "antes": [
+      "Seca un poco el pollo con papel toalla antes de aderezarlo para que chupe mejor los sabores.",
+      "Licúa la avena en tu licuadora hasta que quede como polvito."
+    ],
+    "errores": [
+      "Si los ves muy blancos y secos por fuera en la freidora, pásales una pasadita de aceite con brochita o spray.",
+      "Si te quedaron duros como piedra, los dejaste más de 12 minutos."
+    ],
+    "guardar": "Cómetelos calientitos. Si te sobran, al día siguiente recalentar 3 minutitos en la freidora para que vuelvan a crujir."
+  },
+  {
+    "id": "pan-chicharron-fit",
+    "categoria": 0,
+    "nombre": "Pan con chicharrón fit",
+    "frase": "El clásico desayuno limeño que tanto nos gusta: con su pollo doradito, camote al horno y harta sarsita criolla.",
+    "tiempo": "25 min",
+    "nivel": "Media",
+    "ingredientes": [
+      "1 pan francés crocantito",
+      "150 g de pechuga o pierna deshuesada en trozos",
+      "1 camote morado o amarillo cortado en rodajas",
+      "½ cebolla roja cortada en tiritas (pluma)",
+      "Un pedacito de ají limo cortado chiquito",
+      "Jugo de un par de limones",
+      "Culantro fresco picadito",
+      "Sal, pimienta y gotitas de sillao"
+    ],
+    "pasos": [
+      {
+        "t": "Hornea el camote",
+        "m": 12,
+        "d": "Mete las rodajas de camote a la freidora a 190 °C por 12 minutitos, volteándolas a la mitad del tiempo.",
+        "ok": "Quedan suavecitas por dentro y con los bordes un poco doraditos."
+      },
+      {
+        "t": "Dora tu pollito",
+        "m": 10,
+        "d": "Aderézalo con sal, pimienta y gotitas de sillao. Mételo a la freidora a 200 °C de 10 a 12 minutos.",
+        "ok": "El pollo sale bien doradito, parecido al chicharrón de chancho."
+      },
+      {
+        "t": "La sarsita criolla",
+        "m": 3,
+        "d": "Lava la cebolla en agüita helada. Escúrrela bien y mézclala rápido con el ají, el culantro, su sal y bastante limón.",
+        "ok": "Cebollita crocantita, acidita y en su punto."
+      },
+      {
+        "t": "Arma tu sánguche",
+        "d": "Abre el pan calientito, pon de base los camotes dulces, encima tu pollo crocante y corónalo con harta sarsita.",
+        "ok": "Una delicia: crujiente, jugoso, dulcecito y acidito."
+      }
+    ],
+    "tip": "La sarsita prepárala el mismo segundo en que te vas a sentar a comer, para que la cebolla no se ponga lacia.",
+    "utensilios": ["Freidora de aire", "Platito", "Cuchillo"],
+    "antes": [
+      "Deja la cebolla cortada remojando en agüita helada con un poquito de sal para quitarle el olor fuerte."
+    ],
+    "errores": [
+      "Si el camote te quedó duro, es porque lo cortaste muy grueso. Corta tajadas más delgaditas la próxima.",
+      "Si el pollo te salió seco, seguro los trozos eran muy chiquitos. Corta presas de buen tamaño."
+    ],
+    "guardar": "Esto se come al momento. Si quieres avanzar, puedes guardar el camote cocido y el pollo aparte en la refri."
+  },
+  {
+    "id": "pan-palta-huevo",
+    "categoria": 0,
+    "nombre": "Pan con palta y huevo",
+    "frase": "Desayuno rapidito, suavecito y que te deja súper bien para arrancar la mañana.",
+    "tiempo": "8 min",
+    "nivel": "Muy fácil",
+    "ingredientes": [
+      "1 pan francés o el que tengas en casa",
+      "Un cuarto de palta fuerte (la de cáscara verde)",
+      "2 huevos sancochados",
+      "Gotitas de limón, sal y si te gusta, un poquito de pimienta",
+      "Un par de rodajitas de tomate"
+    ],
+    "pasos": [
+      {
+        "t": "Sancocha los huevos en su punto",
+        "m": 7,
+        "d": "Mete los huevos en agua hirviendo por exactamente 7 minutitos para que la yema te quede cremocita. Sácalos a agua fría.",
+        "ok": "La yema está cocida pero suavecita al centro, no reseca."
+      },
+      {
+        "t": "Tuesta el pan",
+        "m": 2,
+        "d": "Abre el pan y tuéstalo un rato para que aguante bien el relleno.",
+        "ok": "Se siente durito y crocante."
+      },
+      {
+        "t": "Aplasta la palta",
+        "m": 1,
+        "d": "Chanca la palta con un tenedor en un platito. Échale unas gotitas de limón y sal.",
+        "ok": "Queda como una cremita gruesa, con trocitos chiquitos."
+      },
+      {
+        "t": "Arma el pan",
+        "d": "Unta harta palta en el pan tostado, ponle las rodajitas de los huevos encima y un polvito de pimienta para el toque final.",
+        "ok": "Se ve provocativo y huele riquísimo."
+      }
+    ],
+    "tip": "Esa pizquita de pimienta negra encima del huevo resalta todo el sabor de la palta.",
+    "utensilios": ["Ollita", "Plato y tenedor", "Sartén para el pan"],
+    "antes": [
+      "Acuérdate de echar los huevos cuando el agua ya esté hirviendo, no antes.",
+      "Busca una palta que esté suavecita al apretarla apenitas."
+    ],
+    "errores": [
+      "Si la palta se te puso negra rápido, te olvidaste de echarle sus gotitas de limón.",
+      "Si el pan se aguó al toque, dejaste que el pan quemara a la palta. Deja que el pan enfríe un segundito antes de untar."
+    ],
+    "guardar": "Cómelo ahí mismo, ¡la palta no espera a nadie!"
+  },
+  {
+    "id": "huevos-voluminosos",
+    "categoria": 0,
+    "nombre": "Huevos revueltos bien servidos",
+    "frase": "Un platazo grande que te va a dejar llenito, metiéndole su verdura sin que te des cuenta.",
+    "tiempo": "8 min",
+    "nivel": "Fácil",
+    "ingredientes": [
+      "3 huevos",
+      "1 tomate rojito cortado en cuadritos",
+      "1 buen puñado de espinaca bien lavada",
+      "Sal y orégano",
+      "Un chorrito mínimo de aceite",
+      "1 pan tostado para acompañar"
+    ],
+    "pasos": [
+      {
+        "t": "Cocina las verduritas",
+        "m": 2,
+        "d": "En tu sartén calientita con su chorrito de aceite, dale vuelta al tomate por 1 minuto. Luego echa la espinaca hasta que se achique.",
+        "ok": "La espinaca se pone suavecita y no queda charco de agua abajo."
+      },
+      {
+        "t": "Mete los huevos",
+        "m": 2,
+        "d": "Bate los huevos con sal y orégano y échalos a la sartén. Empuja los huevos despacito desde los bordes hacia el centro.",
+        "ok": "Se van armando montañitas suavecitas."
+      },
+      {
+        "t": "Apaga antes de que se seque",
+        "m": 1,
+        "d": "Apaga el fuego mientras veas que el huevo todavía está brillosito. Sírvelo encima de tu pancito.",
+        "ok": "Te quedan súper cremositos, nada que ver con esos huevos secos."
+      }
+    ],
+    "tip": "Apagar el fuego cuando todavía parece que le falta un poquito es la clave, porque el huevo se sigue cocinando con el calor de la sartén.",
+    "utensilios": ["Sartén de teflón", "Espátula", "Plato hondo para batir"],
+    "antes": [
+      "Cuando piques el tomate, sácale las pepitas y el juguito para que no agüen la sartén."
+    ],
+    "errores": [
+      "Si te quedó un charco rojo en el plato, es porque metiste el tomate con todo y pepas.",
+      "Si quedaron duros y secos, te demoraste en apagar el fuego."
+    ],
+    "guardar": "De la sartén al plato, como debe ser."
+  },
+  {
+    "id": "tostadas-queso",
+    "categoria": 0,
+    "nombre": "Tostadas con queso fresco",
+    "frase": "Desayuno veloz, crocantito y con olorcito a orégano que te levanta.",
+    "tiempo": "5 min",
+    "nivel": "Muy fácil",
+    "ingredientes": [
+      "2 tajadas de pan que tengas en casa",
+      "Un par de buenas tajadas de queso fresco",
+      "1 tomate cortado en rodajas",
+      "Orégano",
+      "2 huevos duros al costado para que alimenten más"
+    ],
+    "pasos": [
+      {
+        "t": "Hazte unas buenas tostadas",
+        "m": 3,
+        "d": "Tuesta el pan en la sartén o freidora hasta que se ponga bien durito y crocante.",
+        "ok": "Que suene crujiente cuando lo muerdas."
+      },
+      {
+        "t": "Arma tus panes",
+        "m": 1,
+        "d": "Pon las rodajas de tomate y encima acomoda tu queso fresco. Sobate un poquito de orégano con las palmas de tus manos y échalo encima del queso.",
+        "ok": "Huele riquísimo a yerbita fresca."
+      },
+      {
+        "t": "Al calor un ratito",
+        "m": 1,
+        "d": "Si quieres, mételas 1 minutito a la sartén tapada o a la freidora para que el queso se ponga medio suavecito.",
+        "ok": "El queso calientito te calienta el alma."
+      }
+    ],
+    "tip": "Restregar el orégano con las palmas de las manos antes de echarlo es un secreto de las abuelas para que bote todo su olorcito.",
+    "utensilios": ["Tostadora, sartén o freidora", "Cuchillo"],
+    "antes": [
+      "Sancocha tus huevos de antemano para que en la mañana todo sea rápido."
+    ],
+    "errores": [
+      "Si el queso bota mucha agüita, sécalo un poquito con servilleta antes de ponerlo en el pan."
+    ],
+    "guardar": "Si las dejas para después el pan se pone chicloso, cómelas al toque."
+  },
+  {
+    "id": "avena-espesa",
+    "categoria": 0,
+    "nombre": "Avena espesa con canela",
+    "frase": "Bien espesita, para comerla con cuchara como mazamorra y que te abrigue la barriga.",
+    "tiempo": "10 min",
+    "nivel": "Muy fácil",
+    "ingredientes": [
+      "½ taza de avena (la normal)",
+      "1 taza de leche (o agua)",
+      "1 palito de canela",
+      "1 manzana rallada",
+      "1 cucharada de yogur griego para ponerle encima"
+    ],
+    "pasos": [
+      {
+        "t": "Sácale la esencia a la canela",
+        "m": 3,
+        "d": "Pon la leche con el palito de canela en una ollita a fuego medio hasta que veas que sale humito calientito.",
+        "ok": "La leche ya agarró todo el olorcito a la canela."
+      },
+      {
+        "t": "Cocina y mueve con paciencia",
+        "m": 5,
+        "d": "Échale la avena, baja el fuego a bajito y mueve lento pero seguro con una cuchara de palo.",
+        "ok": "Vas a ver que se empieza a poner espesita, agarrando cuerpo."
+      },
+      {
+        "t": "El toque de la manzana",
+        "m": 1,
+        "d": "Saca el palito de canela, sírvela en un plato hondo y mézclale la mitad de la manzana rallada. Encima ponle la otra mitad de la manzana y su cucharadita de yogur.",
+        "ok": "Qué rico: la cremita calientita y la manzana fresquita."
+      }
+    ],
+    "tip": "Hacerla con menos leche o agua es lo que hace que te quede así espesota. Opcional: mientras hierve, échale 2 claras de huevo y mueve rápido para darle proteína extra y más cremosidad.",
+    "utensilios": ["Olla chiquita", "Cuchara de palo", "Rallador"],
+    "antes": [
+      "No ralles la manzana al principio, rállala justo cuando ya vas a servir para que no se ponga marrón (oxidada)."
+    ],
+    "errores": [
+      "Si se te pegó al fondo o huele a quemado, dejaste de mover; la avena requiere que la mires y la muevas.",
+      "Si todavía la ves aguada, paciencia, déjala un par de minutos más."
+    ],
+    "guardar": "Te dura guardada en la refri. Cuando la quieras comer, échale un chorrito de leche y alienta, porque en el frío se endurece más."
+  },
+  {
+    "id": "tortilla-verduras",
+    "categoria": 0,
+    "nombre": "Tortilla de verduras",
+    "frase": "Gordita y con colores. ¡Perfecta para aprovechar las verduras que te van quedando!",
+    "tiempo": "12 min",
+    "nivel": "Fácil",
+    "ingredientes": [
+      "3 huevos enteros",
+      "½ zanahoria ralladita finita",
+      "Un puñadito de vainitas sancochadas cortadas chiquitas",
+      "Un cuadradito de queso fresco picado",
+      "Sal y pimienta",
+      "Un chorrito de aceite"
+    ],
+    "pasos": [
+      {
+        "t": "Mezcla todo junto",
+        "m": 2,
+        "d": "En un plato, bate bien los huevos con su sal. Échale la zanahoria, las vainitas y el quesito fresco.",
+        "ok": "Todo queda bien mezcladito y colorido en el huevo."
+      },
+      {
+        "t": "A la sartén tapadita",
+        "m": 5,
+        "d": "Pasa una servilleta con aceite por la sartén y caliéntala. Echa la mezcla, tápalo y pon el fuego en lo más bajito que tengas por 5 minutos.",
+        "ok": "Vas a ver que los bordes ya se separan solitos y por arriba casi no baila."
+      },
+      {
+        "t": "Voltea con ayuda de un plato",
+        "m": 3,
+        "d": "Para que no se te rompa, ponle un plato encima a la sartén, voltea la tortilla al plato y de ahí resbálala de nuevo a la sartén para que dore el otro lado.",
+        "ok": "Te queda una tortilla gordita y doradita por ambas caras."
+      }
+    ],
+    "tip": "El truco de rallar la zanahoria bien finita es para que se alcance a cocinar rapidito en la sartén y no te quede dura al morder.",
+    "utensilios": ["Sartén que no pegue (chica)", "Un plato tendido grande para voltear", "Tazón"],
+    "antes": [
+      "Acuérdate que las vainitas tienen que estar ya sancochadas, no crudas.",
+      "Ralla la zanahoria por el lado de los huequitos más chiquitos."
+    ],
+    "errores": [
+      "Si al voltear se te hizo puré, es porque te desesperaste y la volteaste cuando todavía estaba muy cruda.",
+      "Si se te quemó feo por abajo, tu fuego estaba muy alto; esta tortilla se hace a fuego lentito."
+    ],
+    "guardar": "Fría también sabe rica. La puedes guardar en un táper en la refri para la lonchera de mañana."
+  },
+  {
+    "id": "pan-pollo-palta",
+    "categoria": 0,
+    "nombre": "Pan con pollo y palta",
+    "frase": "El infaltable, pura masita verde con pollo. Simple, rico y te llena bien.",
+    "tiempo": "8 min",
+    "nivel": "Muy fácil",
+    "ingredientes": [
+      "1 buen pan (francés, ciabatta, el que prefieras)",
+      "100 g a 120 g de pollo sancochado y deshilachado (aprox. 1 taza)",
+      "Un cuarto de palta fuertecita",
+      "Unas gotitas de limón y sal",
+      "Su rodaja de tomate"
+    ],
+    "pasos": [
+      {
+        "t": "Pollo a temperatura ambiente",
+        "m": 1,
+        "d": "Fíjate que tu pollo deshilachado no esté congelado, déjalo un rato afuera si estaba en la refri.",
+        "ok": "Un pollito suave, listo para mezclar."
+      },
+      {
+        "t": "Haz la cremita rica",
+        "m": 2,
+        "d": "Chanca la palta con su limón y sal. Ahí mismo mézclale el pollo con ganas.",
+        "ok": "Queda como una masita espesa donde el pollo está bañadito en palta."
+      },
+      {
+        "t": "Tuesta y rellena",
+        "m": 2,
+        "d": "Tuesta el pan abierto. Mételo bastante de esa masita verde y ponle su tomatito al final.",
+        "ok": "Un sánguche crocantito por fuera y recontra cremoso por dentro."
+      }
+    ],
+    "tip": "Mezclar el pollo de frente con la palta es el truco de la abuela para que el pollo no se te atranque en la garganta y quede súper jugosito.",
+    "utensilios": ["Tenedor", "Plato hondo", "Sartén para tostar el pan"],
+    "antes": [
+      "Siempre es bueno tener una pechuguita sancochada guardada para estos casos."
+    ],
+    "errores": [
+      "Si el pan se te ablandó muy rápido, no lo tostaste bien antes de ponerle la mezcla."
+    ],
+    "guardar": "Este pan es para meterle diente al instante, porque la palta moja el pan rápido."
+  },
+  {
+    "id": "tallarin-rojo",
+    "categoria": 1,
+    "nombre": "Tallarines rojos con pollo",
+    "frase": "El almuerzo oficial de los domingos. Su juguito de tomate natural con harto sabor.",
+    "tiempo": "30 min",
+    "nivel": "Media",
+    "ingredientes": [
+      "1 presa buena de pollo (pierna o pechuga con su huequito para que dé sabor)",
+      "Un manojo de fideos tallarín",
+      "3 tomates bien rojitos licuados con todo y cáscara",
+      "Media cebolla rojita picada bien chiquito",
+      "1 dientecito de ajo chancado",
+      "1 hojita de laurel y 1 honguito seco pasadito por agua",
+      "Unas hojitas de albahaca fresca",
+      "Sal, pimienta y apenitas de orégano"
+    ],
+    "pasos": [
+      {
+        "t": "Dora el pollo",
+        "m": 6,
+        "d": "En tu olla pon apenitas de aceite, échale sal al pollo y dóralo 3 minutitos por cada lado a fuego fuerte.",
+        "ok": "Queda con colorcito doradito apetitoso."
+      },
+      {
+        "t": "Haz tu buen aderezo",
+        "m": 5,
+        "d": "Saca el pollo a un plato. En esa misma ollita con el juguito que quedó, fríe la cebolla y el ajo hasta que estén doraditos y huelan rico.",
+        "ok": "El aderezo levanta todo el saborcito rico que dejó el pollo."
+      },
+      {
+        "t": "Cocina la salsa",
+        "m": 15,
+        "d": "Échale el tomate licuado, el laurel, el hongo y regresa la presa de pollo. Tápalo y que hierva lentito por 15 minutos.",
+        "ok": "Ese tomate se vuelve un juguito espeso, oscurito y el pollo ya está cocido hasta el hueso."
+      },
+      {
+        "t": "Sancocha tu fideo",
+        "m": 8,
+        "d": "En otra olla con agua hirviendo y sal, sancocha los fideos por unos 8 minutitos. Cuélalos.",
+        "ok": "Están cocidos pero no se hacen masa (al dente, como dicen)."
+      },
+      {
+        "t": "Mezcla la salsa y el fideo",
+        "m": 2,
+        "d": "Mete los fideos escurridos a la olla del tuco, échale la albahaca picada y muévelo todo 1 minutito a fuego bajito.",
+        "ok": "Cada fideo queda pintadito de rojito y bien bañadito."
+      }
+    ],
+    "tip": "Licuar los tomates con su cáscara es lo máximo, porque eso hace que el juguito espese rico de forma natural sin echarle pomarola de bolsa.",
+    "utensilios": ["Olla para el tuco", "Olla para el fideo", "Colador", "Licuadora"],
+    "antes": [
+      "Licúa el tomate y ve calentando el agua de los fideos desde antes para ganar tiempo."
+    ],
+    "errores": [
+      "Si el juguito te salió muy ácido, tírale una rodajita de zanahoria a la olla mientras hierve; solita se chupa el ácido.",
+      "Si te quedó aguachento, destapa la olla y déjala hervir 5 minutos más."
+    ],
+    "guardar": "En la refri te aguanta un par de días, y te digo un secreto: ¡al día siguiente sabe mucho más rico calentado!"
+  },
+  {
+    "id": "chaufa-pollo",
+    "categoria": 1,
+    "nombre": "Chaufa de pollo ligero",
+    "frase": "Como el de chifa de la vuelta de la casa, bien doradito, pero con tu cariño de hogar.",
+    "tiempo": "15 min",
+    "nivel": "Media",
+    "ingredientes": [
+      "¾ de taza de arroz blanco (del día anterior, importantísimo)",
+      "150 g de pechuga picada en cuadritos",
+      "1 huevo",
+      "Cebollita china picada (separa la parte blanquita de la verde)",
+      "1 cda. generosa de sillao",
+      "Un pedacito de kion (jengibre) rallado",
+      "Gotitas de aceite de ajonjolí (si tienes)",
+      "Un poquitín de pimiento picado chiquito"
+    ],
+    "pasos": [
+      {
+        "t": "Haz la tortillita",
+        "m": 2,
+        "d": "Bate el huevo con poquita sal, hazlo tortilla en la sartén, sácalo y córtalo en cuadritos.",
+        "ok": "Lista la tortilla clásica del chaufa."
+      },
+      {
+        "t": "Fríe el pollito",
+        "m": 3,
+        "d": "Sartén bien caliente, echa el pollo con la ralladura de kion y la parte blanquita de la cebolla china. Muévelo rápido.",
+        "ok": "El pollito cambia de color y agarra un olorcito a chifa buenazo."
+      },
+      {
+        "t": "Métele el color",
+        "m": 2,
+        "d": "Échale el pimiento y saltéalo todo rapidito.",
+        "ok": "Verduritas brillosas y que huelen rico."
+      },
+      {
+        "t": "Echa el arroz y mezcla",
+        "m": 3,
+        "d": "Mete ese arroz frío, aplástalo con la cuchara para separarlo y muévelo fuerte por 2 minutos hasta que escuches que fríe.",
+        "ok": "El arrocito salta y se calienta parejito."
+      },
+      {
+        "t": "Échale el sillao y sirve",
+        "m": 1,
+        "d": "Echa el sillao por el borde de la sartén, mete la tortilla, la parte verdecita de la cebolla china y las gotitas de aceite de ajonjolí. Mueve un toque y ¡listo!",
+        "ok": "Color marrón parejito, humeante y oliendo riquísimo."
+      }
+    ],
+    "tip": "El secreto de los chifas es usar arroz guardado en la refri. El arroz frío no se hace masa cuando le echas el sillao, se mantiene suelto y graneadito.",
+    "utensilios": ["Sartén grande o wok", "Cuchara de palo o espátula de metal", "Platito"],
+    "antes": [
+      "Ten todo picadito en platitos al lado de la cocina, porque el chaufa no espera, se hace en 5 minutos.",
+      "Separa el arroz frío con un tenedor antes de echarlo a la sartén."
+    ],
+    "errores": [
+      "Si el arroz te quedó hecho una pasta, es porque usaste arroz recién cocinado calientito o el fuego de tu cocina estaba muy bajo.",
+      "Si lo ves muy pálido, échale su chorrito extra de sillao dándole vueltas a la sartén."
+    ],
+    "guardar": "Te aguanta perfecto 2 días en la refri. Cuando lo calientes, hazlo en una sartén caliente, sin echarle aceite."
+  },
+  {
+    "id": "salpicon-pollo",
+    "categoria": 1,
+    "nombre": "Salpicón de pollo",
+    "frase": "Fresco, crocantito y llenador. Especial para cuando hace calor.",
+    "tiempo": "15 min",
+    "nivel": "Fácil",
+    "ingredientes": [
+      "1 pechuga de pollo sancochada y deshilachada",
+      "Media tacita de choclo desgranado y sancochadito",
+      "1 zanahoria sancochada y picada en cuadritos",
+      "Un puñadito de vainitas sancochadas picadas",
+      "Jugo de un par de limones",
+      "Sal, pimienta y culantro fresco picadito",
+      "1 papa blanca sancochada en rodajas (para la base)"
+    ],
+    "pasos": [
+      {
+        "t": "Refresca las verduras",
+        "m": 5,
+        "d": "Pasa la vainita y la zanahoria recién sancochadas por agua bien fría para que no se sigan cocinando y se pongan mustias.",
+        "ok": "La vainita se queda verdecita viva y la zanahoria durita."
+      },
+      {
+        "t": "Junta todo",
+        "m": 2,
+        "d": "En un tazón grande, echa tu pollito deshilachado con el choclo, la zanahoria y las vainitas.",
+        "ok": "Se ve recontra colorido y provocativo."
+      },
+      {
+        "t": "Échale su aliño al momento",
+        "m": 2,
+        "d": "Échale sal, su polvito de pimienta, el culantro y el jugo de limón recién exprimido. Revuélvelo con cariño.",
+        "ok": "Un sabor fresquito entre acidito y saladito."
+      },
+      {
+        "t": "Arma el plato",
+        "d": "Pon las rodajitas de papa sancochada abajo y encima sírvele un cerro del salpicón fresco.",
+        "ok": "Un almuerzo ligerito que no te da sueño después."
+      }
+    ],
+    "tip": "Pasar las verduras por agua fría apenas las sacas de la olla hace la diferencia; no pierden su color y crujen rico al masticar.",
+    "utensilios": ["Tazón grande", "Cuchillo", "Exprimidor (opcional)"],
+    "antes": [
+      "Avanza bastante teniendo el pollo y todas las verduritas sancochadas desde temprano."
+    ],
+    "errores": [
+      "Si se puso medio aguachento en el fondo, es porque no colaste bien las verduras antes de mezclarlas."
+    ],
+    "guardar": "Sin echarle limón, te aguanta todo un día en la refri bien guardado. Le exprimes el limón justo al segundo que vayas a comer."
+  },
+  {
+    "id": "estofado-pollo",
+    "categoria": 1,
+    "nombre": "Estofado de pollo",
+    "frase": "Guiso casero caldosito, como lo preparan las mamás para alegrarte el día.",
+    "tiempo": "35 min",
+    "nivel": "Media",
+    "ingredientes": [
+      "1 buena presa de pollo",
+      "2 tomates bien maduros licuados",
+      "Media cebolla rojita picada bien chiquito",
+      "1 papa blanca pelada y picada grande (en cuatro)",
+      "1 zanahoria cortada en rodajas",
+      "Un puñadito de arvejitas verdes",
+      "1 hojita de laurel y apenitas de comino",
+      "Arrocito cocido para acompañar el jugo"
+    ],
+    "pasos": [
+      {
+        "t": "Dora el pollo",
+        "m": 5,
+        "d": "Échale su sal y comino a la presa. En tu olla con un poquito de aceite, dórala unos minutitos por ambos lados. Saca la presa a un platito.",
+        "ok": "La presita queda agarrando un color doradito rico."
+      },
+      {
+        "t": "El aderezo de la abuela",
+        "m": 4,
+        "d": "En esa misma ollita y aceite, fríe la cebollita hasta que esté bien doradita. Échale el tomate licuado y la hojita de laurel.",
+        "ok": "Huele al almuerzo de toda la vida y el juguito se ve espesito."
+      },
+      {
+        "t": "Cocina a fuego bajo",
+        "m": 15,
+        "d": "Regresa tu presa a la olla, ponle las papas, la zanahoria y media tacita de agua. Tápalo y que hierva despacito.",
+        "ok": "Metes el tenedor en la papa y entra suavecito, el pollo ya está cocido."
+      },
+      {
+        "t": "Su toque de arvejitas",
+        "m": 4,
+        "d": "Al final, échale las arvejitas y déjalo hervir destapado unos 4 minutitos para que el juguito espese.",
+        "ok": "Las arvejitas quedan verdecitas y enteras."
+      }
+    ],
+    "tip": "Echar las arvejitas al ultimito salva la receta; si las echas al principio se te deshacen, pierden su color verde bonito y se hacen puré.",
+    "utensilios": ["Olla con tapa", "Licuadora", "Cuchara de palo"],
+    "antes": [
+      "Pela tu papita y zanahoria con tiempo.",
+      "Licúa tus tomates sin echarles agua, así queda más puro el sabor."
+    ],
+    "errores": [
+      "Si la papa se te hizo un puré deshecho en la olla, seguro le metiste papa amarilla en vez de blanca, o la pusiste a hervir demasiado rato.",
+      "Si ves el caldito muy aguado, aplasta una esquinita de una papa contra la olla; eso espesa riquísimo el jugo."
+    ],
+    "guardar": "Este es de los platos que al día siguiente sabe doblemente rico. Te dura unos 3 días bien tapado en la refrigeradora."
+  },
+  {
+    "id": "lentejas-pollo",
+    "categoria": 1,
+    "nombre": "Lentejas con pollo a la plancha",
+    "frase": "Tus clásicas lentejitas de los lunes, calentitas y con su pollito bien jugoso.",
+    "tiempo": "35 min",
+    "nivel": "Media",
+    "ingredientes": [
+      "1 buena taza de lentejas sancochaditas con su caldito",
+      "1 filete de pechuga de pollo",
+      "Media cebolla picadita chiquita",
+      "1 dientecito de ajo molido",
+      "1 tomatito rojito picado chiquito",
+      "Orégano seco y una pizquita de comino",
+      "Su arrocito infaltable"
+    ],
+    "pasos": [
+      {
+        "t": "Hazle el aderezo a las lentejas",
+        "m": 4,
+        "d": "En una ollita pon la cebolla, el ajo, el comino y el tomate con un chorrito de aceite. Fríelo moviendo hasta que se deshaga un poco.",
+        "ok": "Queda como una pastita bien rica y olorosa."
+      },
+      {
+        "t": "Que hierva la menestra",
+        "m": 8,
+        "d": "Echa tus lentejitas sancochadas ahí a la olla con su aderezo y un chorrito de su agua. Déjalo hervir suavecito y al final frótale el orégano seco con las manos encima.",
+        "ok": "Tus lentejas quedan espesitas, cremositas, para sobar pan."
+      },
+      {
+        "t": "Haz tu pollo a la plancha",
+        "m": 6,
+        "d": "Calienta tu sartén. Sazona el pollo, échalo y ¡no lo muevas! por 3 minutos. Dale la vuelta y 3 minutos más.",
+        "ok": "Doradito bonito por fuera, cocido y jugosito por dentro."
+      },
+      {
+        "t": "A servir",
+        "d": "Pon en el plato tus lentejas bien servidas, tu arroz blanco y la pechuguita humeante al costado.",
+        "ok": "Menú completo, levanta muertos y riquísimo."
+      }
+    ],
+    "tip": "El orégano seco al final no solo le da un saborazo, sino que ayuda a que las lentejas caigan mejor al estómago y no te hinchen.",
+    "utensilios": ["Olla chiquita", "Sartén que no pegue", "Pinzas o tenedor para voltear"],
+    "antes": [
+      "Asegúrate de que las lentejas ya estén sancochaditas (hiérvelas solo con agua, y le echas la sal al final).",
+      "Pasa una servilleta de papel por el pollo crudo para secarlo un poquito antes de tirarlo a la sartén."
+    ],
+    "errores": [
+      "Si tus lentejas parecen sopa aguada, aplasta unas cuantas lentejitas con la cuchara contra el borde de la olla; con eso espesa rápido."
+    ],
+    "guardar": "Las lentejas aguantan buen tiempo en la refri (unos 4 días). Pero el pollito siempre háztelo fresquito al momento."
+  },
+  {
+    "id": "pollo-brocoli",
+    "categoria": 1,
+    "nombre": "Pollo al sillao con brócoli",
+    "frase": "Como de restaurante chifa, rápido, jugosito y con el brócoli verdecito.",
+    "tiempo": "15 min",
+    "nivel": "Fácil",
+    "ingredientes": [
+      "1 pechuguita cortada en tiritas",
+      "Arbolitos de brócoli limpios",
+      "Medio pimiento rojo cortado a lo largo",
+      "2 cucharadas de sillao",
+      "Apenitas de kion (jengibre) rallado",
+      "Media cucharadita de maicena o chuño disuelta en un dedito de agua",
+      "Su arrocito blanco"
+    ],
+    "pasos": [
+      {
+        "t": "Pasa el brócoli por agua hirviendo",
+        "m": 2,
+        "d": "Mete los arbolitos de brócoli al agua hirviendo por minuto y medio. Sácalos al toque y pásalos por agua helada de caño.",
+        "ok": "Quedan de un verde fuertísimo y un poquito duritos al morder (al dente)."
+      },
+      {
+        "t": "Fríe el pollito",
+        "m": 4,
+        "d": "En tu sartén bien caliente con un poquito de aceite, tira el pollo sazonado con kion y dale vuelta rápido.",
+        "ok": "El pollo se pone blanquito y doradito sin ponerse duro."
+      },
+      {
+        "t": "Junta todo",
+        "m": 2,
+        "d": "Mete a la sartén el brócoli escurrido, el pimiento y échale el sillao. Saltéalo un minutito con el fuego fuerte.",
+        "ok": "Huele ahumadito rico y la verdura sigue brillosa."
+      },
+      {
+        "t": "Para que la salsa espese y bañe el pollo",
+        "m": 1,
+        "d": "Échale el agüita con la maicena y dale un par de vueltas en la sartén.",
+        "ok": "Vas a ver cómo el juguito se espesa al toque y deja al pollo bien bañadito y brillante."
+      }
+    ],
+    "tip": "El truquito de la maicena disuelta es lo que usan en los chifas para que el juguito no se quede en el fondo del plato, sino que se pegue rico al pollo y a las verduras.",
+    "utensilios": ["Sartén grande", "Cuchara de palo", "Vasito para la maicena"],
+    "antes": [
+      "Seca bien el brócoli después de pasarlo por agua; si entra mojado a la sartén, te va a saltar todo el aceite a la cara.",
+      "Diluye bien la maicena en el agüita antes de que prendas el fuego."
+    ],
+    "errores": [
+      "Si el brócoli se te puso medio amarillo y aguado como puré, lo herviste mucho rato; tienes que sacarlo al toque."
+    ],
+    "guardar": "Te aguanta en la refri para el día siguiente. Solo dale una calentada rapidita en la sartén."
+  },
+  {
+    "id": "milanesa-horno",
+    "categoria": 1,
+    "nombre": "Milanesa de pollo en freidora de aire",
+    "frase": "Crocantita por fuera, jugosita por dentro, y sin ahogar el pollo en aceite.",
+    "tiempo": "20 min",
+    "nivel": "Media",
+    "ingredientes": [
+      "1 filete de pechuga",
+      "1 huevo batidito",
+      "Unas buenas cucharadas de avena molida (que parezca pan rallado)",
+      "Sal, polvito de ajo y orégano",
+      "Ensaladita de tomate, lechuga y limoncito"
+    ],
+    "pasos": [
+      {
+        "t": "Chanca el pollo",
+        "m": 2,
+        "d": "Pon tu filete de pechuga adentro de una bolsita limpia o plástico, y aplástalo suavecito con la base de un vaso o una botellita hasta que quede planito y parejo.",
+        "ok": "Queda un filete parejito, sin bultos gordos al medio."
+      },
+      {
+        "t": "Empánizalo bonito",
+        "m": 3,
+        "d": "Échale su sal y sazón al pollo. Pásalo por el huevo y luego cúbrelo bien con la avena molida (mézclale orégano a la avena). Aplástalo con tus manos para que se le pegue bien.",
+        "ok": "Toda la pechuga te queda empanizada y no se le cae la cubierta."
+      },
+      {
+        "t": "A la freidora",
+        "m": 10,
+        "d": "Métela a la freidora de aire a 195 °C. Déjala 10 minutitos, pero ábrela a la mitad del tiempo y voltéala con cuidado.",
+        "ok": "Sale bien crocantita, dorada y al cortarla, adentro el pollo está blanquito y suavecito."
+      }
+    ],
+    "tip": "El secreto de aplastar o chancar el pollo antes es para que no te quede una parte cruda al medio y las puntas quemadas; así se cocina todo parejito.",
+    "utensilios": ["Freidora de aire u horno", "Dos platos hondos", "Un vasito o botella para chancar", "Plástico limpio"],
+    "antes": [
+      "Prende la freidora unos minutos antes para que la milanesa entre con calor fuerte.",
+      "No te olvides de licuar la avena hasta que quede puro polvito."
+    ],
+    "errores": [
+      "Si ves que se le cae la cubierta de avena, fue porque no la aplastaste fuerte con las manos al empanizarla, o el pollo estaba muy mojado."
+    ],
+    "guardar": "Cómetela salidita de la freidora para que cruja. Si te sobra para la noche, recaliéntala unos 3 minutos ahí mismo para que vuelva a estar crocante."
+  },
+  {
+    "id": "fresas-yogur",
+    "categoria": 2,
+    "nombre": "Fresas con yogur",
+    "frase": "Un antojito dulce y fresco que armas en dos patadas.",
+    "tiempo": "3 min",
+    "nivel": "Muy fácil",
+    "ingredientes": [
+      "1 buena taza de fresas rojitas y limpias",
+      "1 vaso de yogur griego (tiene el doble de proteína)",
+      "Un chorrito de miel de abeja",
+      "Cerealito de avena o chía para echarle encima"
+    ],
+    "pasos": [
+      {
+        "t": "Alista las fresitas",
+        "m": 2,
+        "d": "Sácale las hojitas verdes a las fresas y córtalas por la mitad o en cuatro.",
+        "ok": "Fresas rojitas y jugosas listas en el plato."
+      },
+      {
+        "t": "Arma tu postrecito",
+        "m": 1,
+        "d": "Sirve tu yogur en una copa bonita, échale las fresas encima, rocíale su miel y espolvorea la avena para que le dé el toque crocante.",
+        "ok": "Se ve riquísimo, listo para meter cuchara."
+      }
+    ],
+    "tip": "Si cortas las fresas mucho rato antes, botan su agua y te aguan todo el yogur. Córtalas cuando ya vayas a comer.",
+    "utensilios": ["Cuchillo", "Una copita o plato hondo"],
+    "antes": [
+      "Lava bien las fresas, y siempre quítales la parte verde al final, no antes de lavarlas."
+    ],
+    "errores": [
+      "Si las fresas te salieron ácidas y feas, córtalas y déjalas reposando 5 minutitos bañadas en la miel antes de echarles el yogur."
+    ],
+    "guardar": "Esto se sirve y se come al momento."
+  },
+  {
+    "id": "gelatina-yogur",
+    "categoria": 2,
+    "nombre": "Gelatina con yogur",
+    "frase": "Como los postrecitos de vasito de la calle, dulcecito y bien cremoso.",
+    "tiempo": "10 min + 3h frío",
+    "nivel": "Fácil",
+    "ingredientes": [
+      "1 sobrecito de gelatina de dieta (roja, para que quede bonito)",
+      "1 vaso de yogur griego natural blanquito"
+    ],
+    "pasos": [
+      {
+        "t": "Que cuaje bien la gelatina",
+        "m": 5,
+        "d": "Prepara tu gelatina con el agua caliente y fría como dice la cajita. Métela a la refri unas 3 horas para que se ponga bien durita.",
+        "ok": "Cuando la tocas está firme, no baila ni es pura agua."
+      },
+      {
+        "t": "Córtala y mézclala",
+        "m": 2,
+        "d": "Pásale el cuchillo a la gelatina haciendo cuadraditos chiquitos. Sírvelos en un vaso y muévelos con cariño con el yogur heladito.",
+        "ok": "Queda un postre rico, rosadito claro y súper llamativo."
+      }
+    ],
+    "tip": "Si quieres que no se te deshaga al mezclarlo, prepárala echándole un poquito menos de agua de lo que manda la caja, así queda más durita.",
+    "utensilios": ["Molde taparrosca o fuente", "Vasito", "Cucharita"],
+    "antes": [
+      "Hazte el favor y prepara la gelatina desde la noche anterior, así la tienes lista."
+    ],
+    "errores": [
+      "Si al echar el yogur se hizo todo aguado y líquido, te desesperaste y sacaste la gelatina de la refri antes de que cuajara bien."
+    ],
+    "guardar": "En la refri te dura tus buenos 4 días tapadito."
+  },
+  {
+    "id": "mugcake",
+    "categoria": 2,
+    "nombre": "Quequito de taza en microondas",
+    "frase": "Un quequito gordito, esponjosito de chocolate caliente hecho en un minuto y pico.",
+    "tiempo": "5 min",
+    "nivel": "Muy fácil",
+    "ingredientes": [
+      "3 cucharadas de avena licuada (hecha polvito)",
+      "1 huevo + 1 clara",
+      "1 buena cucharada de cacao en polvo",
+      "Tu estevia o azúcar al gusto",
+      "1 cucharada de leche o yogur",
+      "La punta de una cucharita con polvo de hornear"
+    ],
+    "pasos": [
+      {
+        "t": "Mezcla los polvitos",
+        "m": 1,
+        "d": "En tu taza grande, mezcla el polvo de avena, el cacao, tu estevia y el polvo de hornear moviendo con un tenedor.",
+        "ok": "Se ve como un polvito chocolatoso parejito."
+      },
+      {
+        "t": "Échale lo mojado",
+        "m": 1,
+        "d": "Métele el huevo, la clara y tu leche. Bate rapidito con el tenedor raspando bien hasta el fondo de la taza para que no quede nada suelto.",
+        "ok": "Se ve una pastita espesa y brillante."
+      },
+      {
+        "t": "Al microondas",
+        "m": 2,
+        "d": "Mete tu taza al microondas por 1 minuto y 20 segundos.",
+        "ok": "Vas a ver que el queque se infla como magia y al tocar el centro con el dedo se siente suavecito."
+      },
+      {
+        "t": "Déjalo enfriar un ratito",
+        "m": 1,
+        "d": "Cuando pite el microondas, sácalo y espera 1 minuto antes de meterle diente.",
+        "ok": "Ese minutito extra hace que el queque termine de ponerse esponjosito con su propio vaporcito."
+      }
+    ],
+    "tip": "Esa puntita de polvo de hornear es la magia pura para que no te salga aplastado como una galleta.",
+    "utensilios": ["Una taza bien grande y alta", "Tenedor"],
+    "antes": [
+      "Usa una taza grande porque la masa crece y si no, se te rebalsa y ensucias todo."
+    ],
+    "errores": [
+      "Si el queque te salió duro como chicle, se te pasó la mano con los segundos del microondas; la próxima ponle menos.",
+      "Si sentiste harina seca en el fondo, fue porque no batiste bien rascando abajo con tu tenedor."
+    ],
+    "guardar": "Esto es prepararlo, soplarlo y comerlo calientito. Si dejas que se enfríe mucho se pone tieso."
+  },
+  {
+    "id": "avena-arroz-leche",
+    "categoria": 2,
+    "nombre": "Avena sabor arroz con leche",
+    "frase": "Con todo el olorcito rico y el sabor dulce de nuestra olla limeña.",
+    "tiempo": "15 min",
+    "nivel": "Fácil",
+    "ingredientes": [
+      "Media tacita de avena",
+      "1 taza de lechita normal",
+      "1 palito de canela",
+      "Un par de clavitos de olor",
+      "Un pedacito de cáscara de naranja",
+      "Tu azúcar, miel o estevia al gusto y polvito de canela para servir"
+    ],
+    "pasos": [
+      {
+        "t": "Huele a postre",
+        "m": 4,
+        "d": "Hierve la leche despacito con la canela, el clavo y la cascarita de naranja por unos 4 minutos.",
+        "ok": "La cocina entera va a oler riquísimo."
+      },
+      {
+        "t": "A cocinar la avena",
+        "m": 6,
+        "d": "Sácale la cáscara y los palitos. Échale la avena y muévela con cariño a fuego bajito hasta que espese como el clásico arroz con leche.",
+        "ok": "Se ve cremosito, provocativo y amarillito."
+      },
+      {
+        "t": "Échale su dulcito y ¡listo!",
+        "m": 1,
+        "d": "Apaga la hornilla, échale tu azúcar o miel y sírvelo echándole harta canela molida arriba.",
+        "ok": "Un tazón humeante, dulcecito y perfecto para la nochecita."
+      }
+    ],
+    "tip": "No eches la cáscara de naranja gruesa. Opcional: Echarle 2 claras de huevo batidas al final mientras hierve sube la proteína sin cambiar el sabor.",
+    "utensilios": ["Ollita", "Cuchara de palo"],
+    "antes": [
+      "Alista todo antes para que la leche no se te vaya a rebasar en la cocina."
+    ],
+    "errores": [
+      "Si sientes que se te está pegando, no le subas el fuego por querer acabar rápido; ponlo bajito y no dejes de mover."
+    ],
+    "guardar": "Guardado te dura 3 días en la refri. Cuando vayas a calentarlo va a estar duro, así que suéltalo echándole un chorrito extra de leche tibia."
+  },
+  {
+    "id": "batido-papaya",
+    "categoria": 2,
+    "nombre": "Jugo espesito de papaya",
+    "frase": "Heladito, llena rico y ayuda mucho al estómago.",
+    "tiempo": "5 min",
+    "nivel": "Muy fácil",
+    "ingredientes": [
+      "1 taza y un poquito más de papaya cortada y sin pepitas",
+      "Hielo picado (media taza)",
+      "Un chorrito apenitas de leche o agua",
+      "Un toque de miel o azúcar"
+    ],
+    "pasos": [
+      {
+        "t": "Licúa bien",
+        "m": 2,
+        "d": "Mete la papaya, el hielo, tu agua/leche y tu miel a la licuadora. Ponle velocidad fuerte hasta que ya no escuches el hielo chocar.",
+        "ok": "Queda un batido súper espeso, casi como una raspadilla fina."
+      },
+      {
+        "t": "Sirve",
+        "d": "Pásalo a tu vaso y tómatelo de una vez antes de que el hielo se empiece a deshacer.",
+        "ok": "Fresquito y recontra pasable."
+      }
+    ],
+    "tip": "Échale poquito líquido y harto hielo; así te sale un batido grandazo y espesito que te quita el hambre un buen rato.",
+    "utensilios": ["Buena licuadora", "Vaso grande"],
+    "antes": [
+      "Quítale bien todas las pepitas negras y esas tiritas blancas de la papaya para que no te deje un amarguito feo."
+    ],
+    "errores": [
+      "Si te quedó aguado, es porque le zampaste mucha agua. Acuérdate que la papaya de por sí ya es casi pura agua."
+    ],
+    "guardar": "Este jugo no se guarda. Si lo dejas un rato en la mesa vas a ver cómo se separa el agua por un lado y la papaya por otro."
+  },
+  {
+    "id": "manzana-mani",
+    "categoria": 2,
+    "nombre": "Manzana con mantequilla de maní",
+    "frase": "Para engañar al estómago. Crocantito y con su cremita dulce.",
+    "tiempo": "3 min",
+    "nivel": "Muy fácil",
+    "ingredientes": [
+      "1 manzana crocantita (rojita o verde)",
+      "1 cuchara de esa mantequilla de maní rica (la pura)",
+      "Polvito de canela"
+    ],
+    "pasos": [
+      {
+        "t": "Corta en rodajas",
+        "m": 2,
+        "d": "Lava tu manzanita y córtala en rodajitas redondas, sacándole el centrito donde están las pepas.",
+        "ok": "Rodajas limpiecitas que parecen donas."
+      },
+      {
+        "t": "Échale la cremita",
+        "m": 1,
+        "d": "Pásale una empastadita delgada de mantequilla de maní a cada rodaja de manzana y échale tu polvito de canela.",
+        "ok": "Quedan listitas, dulces y huelen riquísimo."
+      }
+    ],
+    "tip": "Si usas esa manzana verde grandota, el sabor acidito contrasta una belleza con lo dulce del maní.",
+    "utensilios": ["Cuchillito", "Tabla para picar"],
+    "antes": [
+      "Lava y seca bien tu manzana, por si viene con ceritas."
+    ],
+    "errores": [
+      "Si la mantequilla está dura como chicle, métela 10 segundos al microondas para que no rompas la manzana al querer untarla."
+    ],
+    "guardar": "Córtalas y cómetelas. La manzana si se deja cortada se pone marrón oxidada."
+  },
+  {
+    "id": "chocotejas-fit",
+    "categoria": 2,
+    "nombre": "Chocotejas caseras sanitas",
+    "frase": "Un gustito chiquito de chocolate con su pecana adentro para cuando ataca el dulce.",
+    "tiempo": "12 min + frío",
+    "nivel": "Fácil",
+    "ingredientes": [
+      "Unos cuadraditos de chocolate negrito (bitter o de taza bueno)",
+      "Un puñadito de pecanas",
+      "1 dátil (si no tienes, un poquitito de manjarblanco suavecito)"
+    ],
+    "pasos": [
+      {
+        "t": "Derrite el chocolatito",
+        "m": 2,
+        "d": "Pica tu chocolate en pedacitos y ponlo en el microondas. Mételo 20 segundos, sácalo y muévelo; luego 20 segundos más y muévelo. Así hasta que se derrita.",
+        "ok": "Te queda liquidito, oscuro y brillosito."
+      },
+      {
+        "t": "Báñalas bonito",
+        "m": 3,
+        "d": "En un papelito manteca, pon tu pecana, pégale un pedacito de dátil o manjarblanco encima y échale el chocolatito derretido bañando todo.",
+        "ok": "Queda un bultito gordito puro chocolate."
+      },
+      {
+        "t": "A la refri",
+        "m": 10,
+        "d": "Mételas a la refri sus 10 minutitos hasta que sientas que el chocolate ya se puso durito de nuevo.",
+        "ok": "Están firmes y cuando las muerdes, suenan 'crack'."
+      }
+    ],
+    "tip": "El pedacito de dátil adentro le da esa textura chiclosita igualita a la que te da el manjarblanco, pero súper sano.",
+    "utensilios": ["Platito hondo", "Papelito manteca", "Tenedor"],
+    "antes": [
+      "Si tus pecanas están un poquito suaves, dales una tostadita rapidísima en la sartén sin nada para que queden crocantes."
+    ],
+    "errores": [
+      "Si el chocolate en el microondas se te hizo una pasta dura y reseca, se te quemó por meterlo mucho rato de corrido. Hazlo de 20 en 20 segundos."
+    ],
+    "guardar": "Te duran un montón de días en un tapercito bien cerrado, lejitos del sol."
+  },
+  {
+    "id": "sopa-minuta",
+    "categoria": 3,
+    "nombre": "Sopa a la minuta",
+    "frase": "Ese caldito calientito que te preparan en casa cuando vienes cansado o con frío. Con su huevo encima.",
+    "tiempo": "15 min",
+    "nivel": "Fácil",
+    "ingredientes": [
+      "Taza y media de caldo (de pollo o carne) o agüita nomás",
+      "100 g de carne picadita o molida",
+      "Un puñadito de fideos cabello de ángel (los delgaditos)",
+      "1 huevito",
+      "Una pizquita de ajo picado y otra pizca de cebolla",
+      "Cebolla china y orégano para espolvorear"
+    ],
+    "pasos": [
+      {
+        "t": "Dale un frito rápido",
+        "m": 2,
+        "d": "En una ollita chiquita fríe la cebollita y el ajo con una gotita de aceite. Métele la carne y dale vueltas hasta que cambie a color marroncito.",
+        "ok": "Huele al aderezo clásico de sopita y la carne está selladita."
+      },
+      {
+        "t": "Que hierva con el fideo",
+        "m": 4,
+        "d": "Échale tu caldito y deja que hierva fuerte. Ponle tu manojo de fideos cabello de ángel partido por la mitad.",
+        "ok": "El fideíto rápido se hunde y se va poniendo suavecito."
+      },
+      {
+        "t": "Echa el huevo entero",
+        "m": 3,
+        "d": "Bájale la llama a despacito, rompe tu huevo y échalo en el medio de la ollita con cuidadito de no romper la yema. ¡Y no metas cuchara!",
+        "ok": "Vas a ver cómo la clara blanca va tapando y abrigando a la yema amarrillita."
+      },
+      {
+        "t": "A tu plato",
+        "d": "Échalo todo a un plato hondo, sóbale un poquito de orégano encima y ponle su cebolla china.",
+        "ok": "Sopita calientita, reponedora y deliciosa."
+      }
+    ],
+    "tip": "Si quieres el huevito entero pochado no toques la olla. Pero si quieres la sopa estilo hilo, rompe el huevo con un tenedor en un platito y échalo moviendo rápido.",
+    "utensilios": ["Olla chiquita", "Cucharón"],
+    "antes": [
+      "Calienta tu caldo o agüita en otra olla para que no pierdas tiempo esperando a que hierva."
+    ],
+    "errores": [
+      "Si el cabello de ángel se te hizo puré y la sopa se espesó feo, dejaste hirviendo la sopa mucho rato. Esos fideos se hacen en un par de minutos."
+    ],
+    "guardar": "Sírvela al momento. El fideo delgado chupa toda el agua, así que si la dejas guardada mañana será un mazacote de masa."
+  },
+  {
+    "id": "atun-papa",
+    "categoria": 3,
+    "nombre": "Atún con papa sancochada",
+    "frase": "La salvavidas oficial. Cuando llegas tarde y tienes mucha hambre pero cero ganas de prender la cocina.",
+    "tiempo": "8 min",
+    "nivel": "Muy fácil",
+    "ingredientes": [
+      "1 latita de atún de agua (bien escurrido)",
+      "1 papaza blanca o amarilla sancochada",
+      "Media cebolla rojita cortada finita",
+      "Jugo de 1 limoncito jugoso",
+      "1 huevo duro",
+      "Su sal, pimienta y culantro picadito"
+    ],
+    "pasos": [
+      {
+        "t": "Tu sarsita de atún",
+        "m": 3,
+        "d": "En un plato hondo junta la cebollita (bien lavada en agua fría), échale tu atún, tu limoncito, culantro, sal y pimienta. Muévelo.",
+        "ok": "Te queda fresquito, oliendo a cevichito."
+      },
+      {
+        "t": "Arma el plato y come",
+        "m": 2,
+        "d": "Pica tu papa sancochada en rodajas poniéndolas como camita en el plato. Échale el cerro de atún encima y tu huevo duro al costadito.",
+        "ok": "Lo calientito de la papa queda perfecto con el friecito jugoso del atún."
+      }
+    ],
+    "tip": "Pasar tu cebolla por agua bien helada le quita ese picor fuerte que te deja oliendo a cebolla todo el día. Así te queda súper crocantita.",
+    "utensilios": ["Platito hondo", "Tenedor", "Cuchillo"],
+    "antes": [
+      "Esa papa y ese huevito ya deben estar sancochados desde tempranito."
+    ],
+    "errores": [
+      "Si ves el atún un poco reseco, tírale un chorrito mínimo de aceite o agüita calientita de la papa para soltarlo."
+    ],
+    "guardar": "A la barriga de frente; la cebolla con limón si la guardas para mañana se pone fofa y rancia."
+  },
+  {
+    "id": "hamburguesa-pollo",
+    "categoria": 3,
+    "nombre": "Hamburguesa casera de pollo",
+    "frase": "Gordita, sabrosa y sin grasa. Perfecta para un gustito en la noche.",
+    "tiempo": "18 min",
+    "nivel": "Fácil",
+    "ingredientes": [
+      "Un puñadito grande (150g) de pollo molido",
+      "1 clara de huevo (lo blanquito)",
+      "Un par de cucharadas de avena molidita",
+      "Ajo picado bien chiquito",
+      "Sal, pimienta y orégano para el sabor",
+      "Una tajadita de queso edam o fresco",
+      "Lechuguita, tomate y tu pancito"
+    ],
+    "pasos": [
+      {
+        "t": "Mezcla la masita",
+        "m": 2,
+        "d": "Junta el pollo molido con lo blanquito del huevo, la avena, ajito y tu sal y pimienta. Amasa con la mano hasta que esté juntito.",
+        "ok": "Te queda una masita de pollo que se deja armar fácil en tu mano."
+      },
+      {
+        "t": "Arma la hamburguesa",
+        "m": 1,
+        "d": "Dale forma redonda de hamburguesa más o menos gordita. Y hazle como un huequito o hundidita chiquita al medio con tu dedo pulgar.",
+        "ok": "Una carne redondita pareja que no se va a hinchar como globo."
+      },
+      {
+        "t": "A cocinar",
+        "m": 10,
+        "d": "Ponla en la freidora de aire a 190 °C por 10 minutitos, volteándola a la mitad de tiempo. El último minutito pónle el queso encima.",
+        "ok": "Doradita, bien cocinada al medio y con el quesito todo derretidito arriba."
+      },
+      {
+        "t": "Sánguche listo",
+        "d": "Arma tu pancito con tus buenas hojas de lechuga, tus tomates fresquitos y la carnecita adentro.",
+        "ok": "Un tremendo pan que no se te desarma al morder."
+      }
+    ],
+    "tip": "Hacerle ese huequito hundido al centro de la carne cruda evita que en la sartén o freidora se te infle y termine pareciendo una albóndiga.",
+    "utensilios": ["Freidora de aire o tu sartén con tapa", "Platito hondo"],
+    "antes": [
+      "Pide en el mercado que te muelan fresco el pollo, o pásalo unos segundos por tu licuadora en casita."
+    ],
+    "errores": [
+      "Si al querer voltearla se te empezó a desarmar o quebrar en dos, la volteaste muy rápido o te faltó echarle huevito y avena para que pegue bien."
+    ],
+    "guardar": "Puedes hacer varias masas crudas separaditas por plástico, y guardarlas congeladas en la refri. Así te salvan siempre."
+  },
+  {
+    "id": "ensalada-rusa",
+    "categoria": 3,
+    "nombre": "Ensalada rusa con truco",
+    "frase": "La ensalada de los cumpleaños. Igualita de color, pero preparadita con yogur sanito en vez del pote de mayonesa.",
+    "tiempo": "20 min",
+    "nivel": "Fácil",
+    "ingredientes": [
+      "1 beterraga sancochadita",
+      "1 zanahoria sancochada (pero durita, que no se deshaga)",
+      "Un puñadito de vainitas sancochadas picaditas",
+      "100 g a 120 g de pollito deshilachado (aprox. 1 taza)",
+      "Unas dos cucharas grandecitas de yogur griego natural",
+      "Limón, su sal y un toquecito de pimienta"
+    ],
+    "pasos": [
+      {
+        "t": "Pica todo igualito",
+        "m": 4,
+        "d": "Corta tu beterraga y zanahoria (ya peladitas) en cuadritos chiquititos parejitos.",
+        "ok": "Cuadritos bonitos que se ven ordenados en el plato."
+      },
+      {
+        "t": "Haz la cremita",
+        "m": 1,
+        "d": "En un platico hondo revuelve el yogur, tu sal, pimienta y chorritos de limón al gusto.",
+        "ok": "Es una crema que parece mayonesa pero recontra ligera."
+      },
+      {
+        "t": "Mezcla con cariño",
+        "m": 2,
+        "d": "Echa todas tus verduras, tu pollo y mézclalo con cuidado usando la cuchara para que se bañen en la cremita.",
+        "ok": "Todo agarra ese color rosadito fuerte y riquísimo clásico de la ensalada rusa."
+      }
+    ],
+    "tip": "El truquito es sancochar la beterraga siempre enterita con toda su cáscara. Si la pelas antes de hervirla se te va todo su color rojito bonito al agua.",
+    "utensilios": ["Cuchillo filudo", "Tabla", "Un buen tazón"],
+    "antes": [
+      "Sancocha todo temprano y déjalo enfriar súper bien. Si le echas el yogur a la verdura caliente, se te corta feo."
+    ],
+    "errores": [
+      "Si en el fondo de tu tazón quedó pura agüita roja suelta, fue porque tus verduras seguían botando agua. Escúrrelas recontra bien antes de mezclarlas."
+    ],
+    "guardar": "Guardadita en su táper en la refri te aguanta riquísimo para el almuerzo del día siguiente."
+  },
+  {
+    "id": "pollo-plancha",
+    "categoria": 3,
+    "nombre": "Pollo a la plancha con ensaladita",
+    "frase": "Filetito bien doradito sin que te quede reseco o parecido a un cartón.",
+    "tiempo": "12 min",
+    "nivel": "Fácil",
+    "ingredientes": [
+      "Un buen filete de pechuga",
+      "Medio limoncito jugoso",
+      "Su sal, pimienta y orégano",
+      "Una fresquita ensaladita de lechuga, rodajas de pepino y tomate"
+    ],
+    "pasos": [
+      {
+        "t": "Sazona un ratito",
+        "m": 3,
+        "d": "Ponle al pollo tu sal, pimienta, orégano y el limoncito. Déjalo quietito ahí unos minutos.",
+        "ok": "Ese limoncito va ayudando a que el pollito se ablande rico por fuera."
+      },
+      {
+        "t": "Dora a fuego fuerte",
+        "m": 6,
+        "d": "Deja que tu sartén caliente fuerte (que bote un pelín de humo). Échale apenitas aceite y mete el pollo. ¡No lo toques por 3 minutos!, de ahí dale vuelta, otros 3 minutos y ya.",
+        "ok": "Sale con ese doradito como costrita, súper provocativo."
+      },
+      {
+        "t": "Déjalo reposar un toque",
+        "m": 2,
+        "d": "Pasa tu pollito calientito a tu tabla de picar y míralo nomás por 2 minutitos antes de que le metas cuchillo.",
+        "ok": "Ese descansito hace que el juguito se quede adentro de la carne y no se te escape al plato dejándolo seco."
+      }
+    ],
+    "tip": "Agarrarse las manos y no meterle cuchillo directo de la sartén es el trucazo maestro. Espera 2 minutos antes de cortarlo y verás lo jugosito que queda.",
+    "utensilios": ["Una sartén de las buenas o planchita", "Un tenedor pa' voltearlo", "Tabla"],
+    "antes": [
+      "Pasa una hojita de papel toalla por el pollo antes de aliñarlo, para secar agüitas y que dore bonito."
+    ],
+    "errores": [
+      "Si el pollito más que a la plancha te quedó sancochado y blanquito, es porque tu sartén no calentó lo suficiente o porque le pusiste tapa."
+    ],
+    "guardar": "Cómetelo ahí mismo saliendo de la sartén. El filete guardado se pone chicle."
+  },
+  {
+    "id": "caldo-pollo",
+    "categoria": 3,
+    "nombre": "Caldito de pollo",
+    "frase": "Caldito milagroso que te calienta de pies a cabeza. Cayendo como anillo al dedo para una cena relajadita.",
+    "tiempo": "25 min",
+    "nivel": "Fácil",
+    "ingredientes": [
+      "1 presita de pollo (si es pecho o pierna con hueso mucho mejor, da más gusto)",
+      "Un pedacito chiquito de kion (jengibre) chancado",
+      "1 papa amarilla partida en la mitad",
+      "1 zanahoria picadita larguita",
+      "Cebolla china fresquita",
+      "Sal y un polvito de pimienta blanca si tienes"
+    ],
+    "pasos": [
+      {
+        "t": "Sácale la sustancia",
+        "m": 12,
+        "d": "En tu olla pon 3 tacitas de agüita, tu pollo y el pedacito de kion machucado a hervir en llama media. Anda sacándole esa espumita fea que sube.",
+        "ok": "Te queda un caldito clarito, sin basurita y que huele muy fresquito al kion."
+      },
+      {
+        "t": "Cocina tus verduritas",
+        "m": 8,
+        "d": "Mete la zanahoria y tu papa amarilla. Ponle la tapa a tu olla, baja un poco el fuego y déjalo hasta que la papa esté lista.",
+        "ok": "La papa amarilla botará un poquito de polvito que le da fuerzita y espesor rico a la sopa."
+      },
+      {
+        "t": "A tu plato hondo",
+        "d": "Sírvela bien calientita con todo, ponle bastante cebolla china arriba y ¡a comer!",
+        "ok": "Un caldo humeante de los que levantan y hacen bien."
+      }
+    ],
+    "tip": "Machucar o chancar tu kion con la cuchilla ancha en vez de cortarlo en cuadritos es el secreto de mamá. Suelta todo el juguito rico en la sopa pero no te lo masticas sin querer.",
+    "utensilios": ["Tu olla con su tapita", "Un cucharón para sacar espuma"],
+    "antes": [
+      "Ya debes tener tus verduras lavaditas y peladitas listas para la olla."
+    ],
+    "errores": [
+      "Si tu sopita de pronto se puso toda turbia o blanquecina, fue porque dejaste que hierva demasiado fuerte con unos borbotones locos; las sopitas se hierven despacito."
+    ],
+    "guardar": "Si te sobra, en la refri está bien unos diítas. Pero para guardarlo sácale los pedazos de cebolla china porque en el agua se malogran."
+  },
+  {
+    "id": "huevos-pavita",
+    "categoria": 3,
+    "nombre": "Huevos revueltos con pavita",
+    "frase": "No tienes tiempo, estás con hambre y quieres cenar en 5 minutos. Esta es tu receta salvadora.",
+    "tiempo": "6 min",
+    "nivel": "Muy fácil",
+    "ingredientes": [
+      "3 huevos",
+      "Un par de lonjitas de jamón de pavita picadas chiquitas",
+      "Apenitas de sal y tu orégano",
+      "Un chorrito apenitas de aceite",
+      "Un tomatito en rodajas con limoncito para acompañar"
+    ],
+    "pasos": [
+      {
+        "t": "Doradita rápida",
+        "m": 2,
+        "d": "Sartén en fuego medio, echas tu aceite y salteas o fríes ahí la pavita picada hasta que la veas un poquito de otro colorcito.",
+        "ok": "Los bordecitos del jamón se ven doraditos."
+      },
+      {
+        "t": "Mezcla suavecito",
+        "m": 2,
+        "d": "Échales los huevos batidos (acuérdate, poquita sal porque el jamón ya trae la suya). Revuelve lentito moviendo para el medio.",
+        "ok": "El huevo cuaja rico, se ve jugosito pero no está líquido ni crudo."
+      },
+      {
+        "t": "Para adentro",
+        "d": "Apaga tu fuego, sácalo a tu plato de frente y sírvete esa ensaladita fresquita al costado.",
+        "ok": "Comida de campeones a la hora que sea, rapidito."
+      }
+    ],
+    "tip": "Cuidado nomás con la sal. Échale la mitad de lo que siempre le echas al huevo frito, porque el jamón de pavo engaña pero es bastante saladito.",
+    "utensilios": ["Tu sartén teflón favorita", "Espátulita", "Plato"],
+    "antes": [
+      "Pica tu pavita parejita en cuadritos del mismo tamaño."
+    ],
+    "errores": [
+      "Si te salieron secos, quemaditos o desabridos, seguro te distrajiste viendo el teléfono y dejaste la sartén prendida de más."
+    ],
+    "guardar": "Eso va de la sartén a tu boca en un segundo, ¡no se guarda!"
+  }
+]
